@@ -1,0 +1,337 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r",
+        "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Solo En Aguas Cálidas",
+        "incorrecta3": "Solo En Aguas Muy Frías\r",
+        "imagen": "https://i.ibb.co/RTffJbX/d.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué tipo de mamífero es un conejo?",
+        "respuesta": "Lagomorfo",
+        "incorrecta1": "Roedor",
+        "incorrecta2": "Marsupial",
+        "incorrecta3": "Equino\r",
+        "imagen": "https://i.ibb.co/TqKxXn6/cuidados-del-conejo-3170-orig.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos rayos gamma emite una neurona cuando hace sinapsis?",
+        "respuesta": "Ninguno",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Dos",
+        "incorrecta3": "De Dos a Tres\r",
+        "imagen": "https://i.ibb.co/T8nnYyV/00.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Durante qué años reinó de forma impuesta en España José Bonaparte?",
+        "respuesta": "Desde 1808 A 1813",
+        "incorrecta1": "Desde 1798 A 1810",
+        "incorrecta2": "Desde 1801 A 1805",
+        "incorrecta3": "Desde 1801 A 1812\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué guerra se hundieron los buques Sheffiel y Coventry?",
+        "respuesta": "Malvinas",
+        "incorrecta1": "Primera Guerra Mundial",
+        "incorrecta2": "Segunda Guerra Mundial",
+        "incorrecta3": "Guerra De Independencia De EE.UU.\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál fue el primer trayecto en tren en España?",
+        "respuesta": "Barcelona  Mataró",
+        "incorrecta1": "Madrid  Barcelona",
+        "incorrecta2": "Madrid  Aranjuez",
+        "incorrecta3": "Madrid  Alicante\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué país es originario el queso Emmental?",
+        "respuesta": "Suiza",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Holanda\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Presidenta de Costa Rica en 2014?",
+        "respuesta": "Luis Guillermo Solís",
+        "incorrecta1": " Monica Solís",
+        "incorrecta2": "Diego Solís",
+        "incorrecta3": "Cristina Solís"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": " ¿Con qué país delimita Turkmenistan?",
+        "respuesta": "Uzbequistan",
+        "incorrecta1": "Kirguizistán",
+        "incorrecta2": "Mongolia",
+        "incorrecta3": "Siria\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": " ¿De dónde son famosos los cogollos?",
+        "respuesta": "Tudela",
+        "incorrecta1": "Tulebras ",
+        "incorrecta2": "Valdespartera",
+        "incorrecta3": "Villaconejos\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": " ¿Cuántas comunidades autónomas hay en España?",
+        "respuesta": "17",
+        "incorrecta1": "16",
+        "incorrecta2": "14",
+        "incorrecta3": "13\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": " ¿Cuál es la capital de Guyana?",
+        "respuesta": "Georgetown",
+        "incorrecta1": "Washington",
+        "incorrecta2": "Tegucigalpa",
+        "incorrecta3": "Cayena\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": " ¿En qué isla del archipiélago canario se encuentra el volcán más alto de España?",
+        "respuesta": "Tenerife",
+        "incorrecta1": "Mallorca ",
+        "incorrecta2": "Sicilia",
+        "incorrecta3": "El Hierro"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugadora de hockey sobre césped ha ganado 7 veces el premio a la mejor jugadora del mundo de 2013?",
+        "respuesta": "Luciana Aymar",
+        "incorrecta1": "Natascha Keller",
+        "incorrecta2": "Alyson Annan",
+        "incorrecta3": "Maartje Paumen\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién marcó el gol 3.500 en Liga del Atlético de Madrid?",
+        "respuesta": "Christian Vieri",
+        "incorrecta1": "Zinedine Zidane",
+        "incorrecta2": "Luka Modric",
+        "incorrecta3": "Adrián Escudero\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos mangos por lado tiene el futbolín?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Cinco\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "respuesta": "Crol",
+        "incorrecta1": "Espalda",
+        "incorrecta2": "Mariposa",
+        "incorrecta3": "Pecho\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estas no es una prueba de decatlón?",
+        "respuesta": "Maratón",
+        "incorrecta1": "Carrera De 1500m ",
+        "incorrecta2": "Salto Con Pértiga ",
+        "incorrecta3": "Lanzamiento De Jabalina"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llamaba la protagonista femenina de la serie de televisión \"Scrubs\"?",
+        "respuesta": "Elliot",
+        "incorrecta1": "Sarah",
+        "incorrecta2": "Jordan",
+        "incorrecta3": "Molly\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llamaba el personaje que interpretaba John Travolta en \"Grease\"?",
+        "respuesta": "Danny Zuko",
+        "incorrecta1": "Danny Puño",
+        "incorrecta2": "Danny Grease",
+        "incorrecta3": "Danny Chulo\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En qué año se estrenó la película de Disney \"Pinocho\"?",
+        "respuesta": "1940",
+        "incorrecta1": "1950",
+        "incorrecta2": "1952",
+        "incorrecta3": "1946\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En qué país nació la Bauhaus?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Holanda",
+        "incorrecta2": "Rusia",
+        "incorrecta3": "Estados Unidos\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Arroz con leche me quiero casar con una señorita de..",
+        "respuesta": "San Nicolás",
+        "incorrecta1": "San Martin",
+        "incorrecta2": "San Justo",
+        "incorrecta3": "San José\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Nacionalidad de Gottfried Leibniz",
+        "respuesta": "Alemán",
+        "incorrecta1": "Suecia",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "China\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Gottfried Leibniz, gran hecho",
+        "respuesta": "desscrubrió el calculo en el siglo 17",
+        "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
+        "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
+        "incorrecta3": "Comia mucho mani\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "seudónimo de Carl Gauss ",
+        "respuesta": "principe de los matematicos",
+        "incorrecta1": "La bestia del calculo",
+        "incorrecta2": "El Dios de los numeros",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Leonad Euler nacionalidad",
+        "respuesta": "Suiza",
+        "incorrecta1": "Ruso",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Berlin\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se fundó la teoria dos grafos",
+        "respuesta": "solucionando un problema que tenia siete puentes. ",
+        "incorrecta1": "Conectando algunos meridianos importantes",
+        "incorrecta2": "En el estudio de los numeros primos",
+        "incorrecta3": "Estudiando aquillas curvas que parecen rectas\r"
+    },
+    {
+        "categoria": "RV",
+        "pregunta": "Escribió ' El modulor'.",
+        "respuesta": "Le Corbusier",
+        "incorrecta1": "Ana Frank",
+        "incorrecta2": "Jorge Luis Borges",
+        "incorrecta3": "Charles Dickens\r"
+    },
+    {
+        "categoria": "RV",
+        "pregunta": "Músico argentino que le apodaban \"El Flaco\".",
+        "respuesta": "Luis Alberto Spinetta",
+        "incorrecta1": "Gustavo Cerati",
+        "incorrecta2": "Andrés Calamaro",
+        "incorrecta3": "Diego Torres\r"
+    },
+    {
+        "categoria": "RV",
+        "pregunta": "Arte japonés de la papiroflexia.",
+        "respuesta": "Origami",
+        "incorrecta1": "Haiku",
+        "incorrecta2": "Ikebana",
+        "incorrecta3": "Ukiyo-E\r",
+        "imagen": "https://i.ibb.co/ZmTsdq4/152311543.jpg"
+    },
+    {
+        "categoria": "RV",
+        "pregunta": "Dirigió la película \"Lo Que El Viento Se Llevó\".",
+        "respuesta": "Víctor Fleming",
+        "incorrecta1": "Steven Spielberg",
+        "incorrecta2": "Alfred Hitchcock",
+        "incorrecta3": "Martin Scorsese\r",
+        "imagen": "https://i.ibb.co/5nxDtzb/image.jpg"
+    },
+    {
+        "categoria": "RV",
+        "pregunta": "Autor de \"20 poemas de amor y una canción desesperada\".",
+        "respuesta": "Pablo Neruda",
+        "incorrecta1": "Rosalía De Castro",
+        "incorrecta2": "Pedro Antonio De Alarcón",
+        "incorrecta3": "Miguel De Cervantes Saavedra\r"
+    }
+]

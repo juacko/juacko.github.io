@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://bootswatch.com/5/litera/bootstrap.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/estilos.css" />
+    <title>Examen de Admision por canales</title>
+    <script src="sweetalert2.all.min.js"></script>
+  </head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <body class="center">
+    <!-- nav bar -->
+    <nav class="navbar navbar-light bg-light">
+      <a class="navbar-brand" href="home.html">
+        <img src="/img/examen.png" width="30" height="30" class="d-inline-block align-top" alt="" id="img">
+        Examen Admision
+      </a>
+    </nav>
+    <!-- botones de seleccion de canales -->
+    <div class="btnContainer">
+      <button
+        id="btnCanal1"
+        class="btn btn-primary mr-2 ml-3"
+        onclick="lanzarPregunta(1)"
+      >
+        <h4>Canal 1</h4>
+      </button>
+
+      <button
+        id="btnCanal2"
+        class="btn btn-warning"
+        onclick="lanzarPregunta(2)"
+      >
+        <h4>Canal 2</h4>
+      </button>
+
+      <button id="btnCanal3" class="btn btn-danger" onclick="lanzarPregunta(3)">
+        <h4>Canal 3</h4>
+      </button>
+
+      <button id="btnCanal4" class="btn btn-info" onclick="lanzarPregunta(4)">
+        <h4>Canal 4</h4>
+      </button>
+    </div>
+
+    <!-- modal de canales por curso -->
+    <div class="modal" tabindex="-1" role="dialog" id="modalPregunta">
+      <div class="modal-dialog" role="document" id="modalTitulo">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Personaliza tu Examen</h5>
+            <button
+              type="button"
+              class="close btn btn-danger"
+              data-dismiss="modal"
+              aria-label="Close"
+              id="btnCloseMotal"
+              onclick="closeModal()"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+            <table class="table" id="tabla">
+              <thead class="thead">
+                <tr>
+                  <th scope="col">ÁREA / ASIGNATURA</th>
+                  <th scope="col">N° PREGUNTAS</th>
+                </tr>
+                
+              </thead>
+              <tbody class="tbody">
+                <tr>
+                  <th scope="row"><p  id="materia1"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada1"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia2"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada2"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia3"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada3"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia4"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada4"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia5"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada5"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia6"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada6"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia7"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada7"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materia8"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entrada8"
+                    />
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          <div class="modal-footer">
+            <nav>
+              <!-- <a href="./exam.html"> -->
+                <button class="btn btn-primary" id="btnIniciarExamen" onclick="iniciarExamen()">
+                  INICIAR EXAMEN
+                </button></a
+              >
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+    <!-- añandiendo exam.html al inicio -->
+    <div class="contenedor" id="quizPanel" style="visibility:hidden;">
+      <div class="puntaje" id="puntaje"></div>
+      <div class="encabezado">
+        <div class="categoria" id="categoria"></div>
+        <div class="numero" id="numero"></div>
+        <div class="pregunta" id="pregunta"></div>
+        <img src="#" class="imagen" id="imagen" />
+      </div>
+      <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+      <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+      <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+      <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+    </div>
+
+    <!-- Enlazar al archivo javascript -->
+    <script src="/js/index.js"></script>
+  </body>
+</html>
