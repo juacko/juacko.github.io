@@ -993,7 +993,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS:\n FILANTROPO : MISANTROPO",
+        "pregunta": "ANALOGÍAS: :\n FILANTROPO : MISANTROPO",
         "respuesta": "Aversidad : Infortunio",
         "incorrecta1": "Xenofilia : Xenofobia",
         "incorrecta2": "Cristiano : Budista",
@@ -1002,7 +1002,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS:\n CABALLERO : CABALGAR",
+        "pregunta": "ANALOGÍAS: :\n CABALLERO : CABALGAR",
         "respuesta": "Artillero : Dispar",
         "incorrecta1": "Jinete : Montar",
         "incorrecta2": "Ciego : Baston",
@@ -1209,7 +1209,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Tugurio",
+        "pregunta": "SINÓNIMOS:\n Tugurio",
         "respuesta": "Choza",
         "incorrecta1": "Turno",
         "incorrecta2": "Trastorno",
@@ -1218,7 +1218,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Ardid",
+        "pregunta": "SINÓNIMOS:\n Ardid",
         "respuesta": "Treta",
         "incorrecta1": "Duda",
         "incorrecta2": "Importancia",
@@ -1227,7 +1227,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Proclive",
+        "pregunta": "SINÓNIMOS:\n Proclive",
         "respuesta": "Propenso",
         "incorrecta1": "Influenciado",
         "incorrecta2": "Torcido",
@@ -1236,7 +1236,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Otear",
+        "pregunta": "SINÓNIMOS:\n Otear",
         "respuesta": "Atisbar",
         "incorrecta1": "Revisar",
         "incorrecta2": "Revelar",
@@ -1245,7 +1245,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Inepto",
+        "pregunta": "SINÓNIMOS:\n Inepto",
         "respuesta": "Incapaz",
         "incorrecta1": "Limitado",
         "incorrecta2": "Impotente",
@@ -1254,7 +1254,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n APÓCRIFO",
+        "pregunta": "SINÓNIMOS:\n APÓCRIFO",
         "respuesta": "Falso",
         "incorrecta1": "Notorio",
         "incorrecta2": "Utópico",
@@ -1263,7 +1263,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n IDÓNEO",
+        "pregunta": "SINÓNIMOS:\n IDÓNEO",
         "respuesta": "Apto",
         "incorrecta1": "Doloso",
         "incorrecta2": "Frustrante",
@@ -1272,7 +1272,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n COALICIÓN",
+        "pregunta": "SINÓNIMOS:\n COALICIÓN",
         "respuesta": "Alianza",
         "incorrecta1": "Obligación",
         "incorrecta2": "Política",
@@ -1281,7 +1281,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n ASEPSIA",
+        "pregunta": "SINÓNIMOS:\n ASEPSIA",
         "respuesta": "Saneamiento",
         "incorrecta1": "Infección",
         "incorrecta2": "Consentir",
@@ -1290,7 +1290,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n PLATÓNICO",
+        "pregunta": "SINÓNIMOS:\n PLATÓNICO",
         "respuesta": "Ilusorio",
         "incorrecta1": "Material",
         "incorrecta2": "Filosófico",
@@ -1299,7 +1299,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n INTERPELAR",
+        "pregunta": "SINÓNIMOS:\n INTERPELAR",
         "respuesta": "Interrogar",
         "incorrecta1": "Acusar",
         "incorrecta2": "Interceder",
@@ -1308,7 +1308,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n AÑEJO",
+        "pregunta": "SINÓNIMOS:\n AÑEJO",
         "respuesta": "Antiguo",
         "incorrecta1": "Anual",
         "incorrecta2": "Enraizada",
@@ -1317,7 +1317,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n LETARGO",
+        "pregunta": "SINÓNIMOS:\n LETARGO",
         "respuesta": "Somnolencia",
         "incorrecta1": "Enfrentar",
         "incorrecta2": "Efímero",
@@ -1326,7 +1326,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n SEVERO",
+        "pregunta": "SINÓNIMOS:\n SEVERO",
         "respuesta": "Afirmativo",
         "incorrecta1": "Inexorable",
         "incorrecta2": "Dragar",
@@ -1335,7 +1335,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n DESIDIA",
+        "pregunta": "SINÓNIMOS:\n DESIDIA",
         "respuesta": "Negligencia",
         "incorrecta1": "Desgracia",
         "incorrecta2": "Dogma",
@@ -1344,7 +1344,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n NOMADA",
+        "pregunta": "SINÓNIMOS:\n NOMADA",
         "respuesta": "Errante",
         "incorrecta1": "Hospital",
         "incorrecta2": "Sedentario",
@@ -1353,7 +1353,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Óptimo",
+        "pregunta": "SINÓNIMOS:\n Óptimo",
         "respuesta": "Inmejorable",
         "incorrecta1": "Ósculo",
         "incorrecta2": "Oblicuo",
@@ -1362,7 +1362,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Requisa",
+        "pregunta": "SINÓNIMOS:\n Requisa",
         "respuesta": "Embargo",
         "incorrecta1": "Régimen",
         "incorrecta2": "Refugio",
@@ -1371,7 +1371,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Heraldo",
+        "pregunta": "SINÓNIMOS:\n Heraldo",
         "respuesta": "Mensajero",
         "incorrecta1": "Hético",
         "incorrecta2": "Locuaz",
@@ -1380,7 +1380,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Fatídico",
+        "pregunta": "SINÓNIMOS:\n Fatídico",
         "respuesta": "Trágico",
         "incorrecta1": "Quimérico",
         "incorrecta2": "Vesánico",
@@ -1389,7 +1389,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Escéptico",
+        "pregunta": "SINÓNIMOS:\n Escéptico",
         "respuesta": "Incrédulo",
         "incorrecta1": "Obstinado",
         "incorrecta2": "Intolerante",
@@ -1398,7 +1398,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Urbe",
+        "pregunta": "SINÓNIMOS:\n Urbe",
         "respuesta": "Capital",
         "incorrecta1": "Acrópolis",
         "incorrecta2": "Ciudad",
@@ -1407,7 +1407,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n HEBRA",
+        "pregunta": "SINÓNIMOS:\n HEBRA",
         "respuesta": "Fibra",
         "incorrecta1": "Efige",
         "incorrecta2": "Burla",
@@ -1416,7 +1416,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n BEODO",
+        "pregunta": "SINÓNIMOS:\n BEODO",
         "respuesta": "Dipsómano",
         "incorrecta1": "Vicioso",
         "incorrecta2": "Pirómano",
@@ -1425,7 +1425,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n HIMENEO",
+        "pregunta": "SINÓNIMOS:\n HIMENEO",
         "respuesta": "Casamiento",
         "incorrecta1": "Nacimiento",
         "incorrecta2": "Divorcio",
@@ -1434,7 +1434,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n LODAZAL",
+        "pregunta": "SINÓNIMOS:\n LODAZAL",
         "respuesta": "pantano",
         "incorrecta1": "desértico",
         "incorrecta2": "paraíso",
@@ -1443,7 +1443,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n DESVIAR",
+        "pregunta": "SINÓNIMOS:\n DESVIAR",
         "respuesta": "doblar",
         "incorrecta1": "dirigir",
         "incorrecta2": "orientar",
@@ -1452,7 +1452,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n OPTIMISTA",
+        "pregunta": "SINÓNIMOS:\n OPTIMISTA",
         "respuesta": "Alegre",
         "incorrecta1": "Pesimista",
         "incorrecta2": "Triste",
@@ -1461,7 +1461,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n PROVISIONAL",
+        "pregunta": "SINÓNIMOS:\n PROVISIONAL",
         "respuesta": "Transitorio",
         "incorrecta1": "Intermitente",
         "incorrecta2": "Reservado",
@@ -1470,7 +1470,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n INCREMENTAR",
+        "pregunta": "SINÓNIMOS:\n INCREMENTAR",
         "respuesta": "Adicionar",
         "incorrecta1": "Prolongar",
         "incorrecta2": "Regenerar",
@@ -1479,7 +1479,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Impaciente",
+        "pregunta": "SINÓNIMOS:\n Impaciente",
         "respuesta": "Intranquilo",
         "incorrecta1": "Inpávido",
         "incorrecta2": "Imperante",
@@ -1488,7 +1488,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Conmemorar",
+        "pregunta": "SINÓNIMOS:\n Conmemorar",
         "respuesta": "Recordar",
         "incorrecta1": "Atesorar",
         "incorrecta2": "Ahuyentar",
@@ -1497,7 +1497,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Copioso",
+        "pregunta": "SINÓNIMOS:\n Copioso",
         "respuesta": "Abundante",
         "incorrecta1": "Copia",
         "incorrecta2": "Coposo",
@@ -1506,7 +1506,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Necedad",
+        "pregunta": "SINÓNIMOS:\n Necedad",
         "respuesta": "Desatino",
         "incorrecta1": "Irradiar",
         "incorrecta2": "Nulidad",
@@ -1515,7 +1515,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Indique la alternativa que contiene sinónimo respectivo de la palabra subrayada “Aquel juez fue sancionado por desacato”",
+        "pregunta": "SINÓNIMOS:\n Indique la alternativa que contiene sinónimo respectivo de la palabra subrayada “Aquel juez fue sancionado por _desacato_”",
         "respuesta": "Insubordinación",
         "incorrecta1": "Arbitrariedad",
         "incorrecta2": "Desleal",
@@ -1524,7 +1524,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Indulto",
+        "pregunta": "SINÓNIMOS:\n Indulto",
         "respuesta": "Absolución",
         "incorrecta1": "Condena",
         "incorrecta2": "Canje",
@@ -1533,7 +1533,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Cínico",
+        "pregunta": "SINÓNIMOS:\n Cínico",
         "respuesta": "Desvergonzado",
         "incorrecta1": "Perezoso",
         "incorrecta2": "Hipócrita",
@@ -1542,7 +1542,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n HIPÓTESIS",
+        "pregunta": "SINÓNIMOS:\n HIPÓTESIS",
         "respuesta": "Suposición",
         "incorrecta1": "Eminente",
         "incorrecta2": "Probidad",
@@ -1551,7 +1551,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n GÉLIDO",
+        "pregunta": "SINÓNIMOS:\n GÉLIDO",
         "respuesta": "Helado",
         "incorrecta1": "Gaseoso",
         "incorrecta2": "Sólido",
@@ -1560,7 +1560,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n ABATIR",
+        "pregunta": "SINÓNIMOS:\n ABATIR",
         "respuesta": "Caer",
         "incorrecta1": "Apabullar",
         "incorrecta2": "Fenecer",
@@ -1569,7 +1569,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Ubérrimo",
+        "pregunta": "SINÓNIMOS:\n Ubérrimo",
         "respuesta": "feraz",
         "incorrecta1": "estéril",
         "incorrecta2": "calmo",
@@ -1578,7 +1578,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Éxodo",
+        "pregunta": "SINÓNIMOS:\n Éxodo",
         "respuesta": "inmigración",
         "incorrecta1": "realce",
         "incorrecta2": "sorpresa",
@@ -1587,7 +1587,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Folículo",
+        "pregunta": "SINÓNIMOS:\n Folículo",
         "respuesta": "glándula",
         "incorrecta1": "Tumor",
         "incorrecta2": "título",
@@ -1596,7 +1596,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Castidad",
+        "pregunta": "SINÓNIMOS:\n Castidad",
         "respuesta": "Pureza",
         "incorrecta1": "Santificar",
         "incorrecta2": "Solidario",
@@ -1605,7 +1605,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n HIGIENE",
+        "pregunta": "SINÓNIMOS:\n HIGIENE",
         "respuesta": "Aseo",
         "incorrecta1": "Blancura",
         "incorrecta2": "Limpio",
@@ -1614,7 +1614,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n CONSTRUCCIÓN",
+        "pregunta": "SINÓNIMOS:\n CONSTRUCCIÓN",
         "respuesta": "Edificación",
         "incorrecta1": "Obra",
         "incorrecta2": "Constructora",
@@ -1623,7 +1623,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n SOCARRÓN",
+        "pregunta": "SINÓNIMOS:\n SOCARRÓN",
         "respuesta": "Burlón",
         "incorrecta1": "Erudito",
         "incorrecta2": "Belicoso",
@@ -1632,7 +1632,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n GALANTE",
+        "pregunta": "SINÓNIMOS:\n GALANTE",
         "respuesta": "Cordial",
         "incorrecta1": "Descortés",
         "incorrecta2": "Rústico",
@@ -1641,7 +1641,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n El sinónimo de compañero es:",
+        "pregunta": "SINÓNIMOS:\n El sinónimo de compañero es:",
         "respuesta": "Colega",
         "incorrecta1": "Contendor",
         "incorrecta2": "Apoyo",
@@ -1650,7 +1650,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Marque la alternativa correcta. \n Es sinónimo de CONVENIDO:",
+        "pregunta": "SINÓNIMOS:\n Marque la alternativa correcta. \n Es sinónimo de CONVENIDO:",
         "respuesta": "Concertado",
         "incorrecta1": "Debatido",
         "incorrecta2": "Cuestionado",
@@ -1659,7 +1659,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n DESACATO",
+        "pregunta": "SINÓNIMOS:\n DESACATO",
         "respuesta": "irrespeto",
         "incorrecta1": "desahogo",
         "incorrecta2": "desafuero",
@@ -1668,7 +1668,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n ALARDE",
+        "pregunta": "SINÓNIMOS:\n ALARDE",
         "respuesta": "ostentación",
         "incorrecta1": "acicate",
         "incorrecta2": "obediencia",
@@ -1677,7 +1677,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n SUCINTO",
+        "pregunta": "SINÓNIMOS:\n SUCINTO",
         "respuesta": "brevedad",
         "incorrecta1": "precisión",
         "incorrecta2": "sencillez",
@@ -1686,7 +1686,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n VEHEMENCIA",
+        "pregunta": "SINÓNIMOS:\n VEHEMENCIA",
         "respuesta": "impetuosamente",
         "incorrecta1": "agresivamente",
         "incorrecta2": "crudamente",
@@ -1695,7 +1695,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n La palabra rapto se usa como sinónimo de",
+        "pregunta": "SINÓNIMOS:\n La palabra rapto se usa como sinónimo de",
         "respuesta": "secuestro",
         "incorrecta1": "crimen",
         "incorrecta2": "furia",
@@ -1704,7 +1704,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n La palabra selfi se utiliza como sinónimo de",
+        "pregunta": "SINÓNIMOS:\n La palabra selfi se utiliza como sinónimo de",
         "respuesta": "autofoto",
         "incorrecta1": "fotografía",
         "incorrecta2": "imagen",
@@ -1713,7 +1713,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "SINÓNIMOS\n Sinónimo de CERCENAR",
+        "pregunta": "SINÓNIMOS:\n Sinónimo de CERCENAR",
         "respuesta": "Amputar",
         "incorrecta1": "Destrozar",
         "incorrecta2": "Cortar",
@@ -1722,7 +1722,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Versátil",
+        "pregunta": "ANTÓNIMOS:\n Versátil",
         "respuesta": "Encasillado",
         "incorrecta1": "Tedioso",
         "incorrecta2": "Precipitado",
@@ -1731,7 +1731,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Optativo",
+        "pregunta": "ANTÓNIMOS:\n Optativo",
         "respuesta": "Obligatorio",
         "incorrecta1": "Requisitorio",
         "incorrecta2": "Formal",
@@ -1740,7 +1740,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ESCÉPTICO",
+        "pregunta": "ANTÓNIMOS:\n ESCÉPTICO",
         "respuesta": "Crédulo",
         "incorrecta1": "Ateo",
         "incorrecta2": "Desconfiado",
@@ -1749,7 +1749,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Atestar",
+        "pregunta": "ANTÓNIMOS:\n Atestar",
         "respuesta": "Vaciar",
         "incorrecta1": "Aflojar",
         "incorrecta2": "Apilar",
@@ -1758,7 +1758,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n DEBILITADO",
+        "pregunta": "ANTÓNIMOS:\n DEBILITADO",
         "respuesta": "Robustecido",
         "incorrecta1": "Enervado",
         "incorrecta2": "Enajenado",
@@ -1767,7 +1767,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n INOCUO",
+        "pregunta": "ANTÓNIMOS:\n INOCUO",
         "respuesta": "Dañino",
         "incorrecta1": "Peligroso",
         "incorrecta2": "Atrevido",
@@ -1776,7 +1776,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n CIMA",
+        "pregunta": "ANTÓNIMOS:\n CIMA",
         "respuesta": "Abismo",
         "incorrecta1": "Cumbre",
         "incorrecta2": "Cúspide",
@@ -1785,7 +1785,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Connubio",
+        "pregunta": "ANTÓNIMOS:\n Connubio",
         "respuesta": "Divorcio",
         "incorrecta1": "Cortejo",
         "incorrecta2": "Cese",
@@ -1794,7 +1794,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n PÚBLICO",
+        "pregunta": "ANTÓNIMOS:\n PÚBLICO",
         "respuesta": "Privado",
         "incorrecta1": "Espectador",
         "incorrecta2": "Propio",
@@ -1803,7 +1803,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n BANAL",
+        "pregunta": "ANTÓNIMOS:\n BANAL",
         "respuesta": "Sustancial",
         "incorrecta1": "Éxodo",
         "incorrecta2": "Primario",
@@ -1812,7 +1812,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Felicitar",
+        "pregunta": "ANTÓNIMOS:\n Felicitar",
         "respuesta": "Increpar",
         "incorrecta1": "Premiar",
         "incorrecta2": "Deprecar",
@@ -1821,7 +1821,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Pobre",
+        "pregunta": "ANTÓNIMOS:\n Pobre",
         "respuesta": "Opulento",
         "incorrecta1": "Flaco",
         "incorrecta2": "Débil",
@@ -1830,7 +1830,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Manifestar",
+        "pregunta": "ANTÓNIMOS:\n Manifestar",
         "respuesta": "Cohibir",
         "incorrecta1": "Acelerar",
         "incorrecta2": "Declarar",
@@ -1839,7 +1839,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Apócrifo",
+        "pregunta": "ANTÓNIMOS:\n Apócrifo",
         "respuesta": "Genuino",
         "incorrecta1": "Inservible",
         "incorrecta2": "Ingenioso",
@@ -1848,7 +1848,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n DESACATO",
+        "pregunta": "ANTÓNIMOS:\n DESACATO",
         "respuesta": "Subordinado",
         "incorrecta1": "Respeto",
         "incorrecta2": "Atención",
@@ -1857,7 +1857,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n CODICIA",
+        "pregunta": "ANTÓNIMOS:\n CODICIA",
         "respuesta": "Desinterés",
         "incorrecta1": "Indiferente",
         "incorrecta2": "Generosidad",
@@ -1866,7 +1866,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n FATUO",
+        "pregunta": "ANTÓNIMOS:\n FATUO",
         "respuesta": "Modesto",
         "incorrecta1": "Escéptico",
         "incorrecta2": "Simple",
@@ -1875,7 +1875,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n MISANTROPO",
+        "pregunta": "ANTÓNIMOS:\n MISANTROPO",
         "respuesta": "Sociable",
         "incorrecta1": "Refinado",
         "incorrecta2": "Civilizado",
@@ -1884,7 +1884,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n AMENO",
+        "pregunta": "ANTÓNIMOS:\n AMENO",
         "respuesta": "Tedioso",
         "incorrecta1": "Grosero",
         "incorrecta2": "Insulso",
@@ -1893,7 +1893,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ENTECO",
+        "pregunta": "ANTÓNIMOS:\n ENTECO",
         "respuesta": "Fuerte",
         "incorrecta1": "Cabal",
         "incorrecta2": "Gordo",
@@ -1902,7 +1902,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n DENOSTAR",
+        "pregunta": "ANTÓNIMOS:\n DENOSTAR",
         "respuesta": "encomiar",
         "incorrecta1": "aprobar",
         "incorrecta2": "estimar",
@@ -1911,7 +1911,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n EXALTACIÓN",
+        "pregunta": "ANTÓNIMOS: \n EXALTACIÓN",
         "respuesta": "moderación",
         "incorrecta1": "quietud",
         "incorrecta2": "tristeza",
@@ -1920,7 +1920,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ABUNDANCIA",
+        "pregunta": "ANTÓNIMOS: \n ABUNDANCIA",
         "respuesta": "escasez",
         "incorrecta1": "parquedad",
         "incorrecta2": "pequeñez",
@@ -1929,7 +1929,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n DESACATO",
+        "pregunta": "ANTÓNIMOS: \n DESACATO",
         "respuesta": "subordinación",
         "incorrecta1": "atención",
         "incorrecta2": "concordia",
@@ -1938,7 +1938,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ABSTRUSO",
+        "pregunta": "ANTÓNIMOS: \n ABSTRUSO",
         "respuesta": "comprensible",
         "incorrecta1": "legible",
         "incorrecta2": "concreto",
@@ -1947,7 +1947,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n RECHAZAR",
+        "pregunta": "ANTÓNIMOS: \n RECHAZAR",
         "respuesta": "aceptar",
         "incorrecta1": "agradar",
         "incorrecta2": "atraer",
@@ -1956,7 +1956,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n PREDILECCIÓN",
+        "pregunta": "ANTÓNIMOS:\n PREDILECCIÓN",
         "respuesta": "indisposición",
         "incorrecta1": "postergación",
         "incorrecta2": "descrédito",
@@ -1965,7 +1965,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n OBJETAR",
+        "pregunta": "ANTÓNIMOS: \n OBJETAR",
         "respuesta": "asentir",
         "incorrecta1": "afirmar",
         "incorrecta2": "reiterar",
@@ -1974,7 +1974,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n CODICIA",
+        "pregunta": "ANTÓNIMOS:\n CODICIA",
         "respuesta": "desinterés",
         "incorrecta1": "sobriedad",
         "incorrecta2": "generosidad",
@@ -1983,7 +1983,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n AMBIGUO",
+        "pregunta": "ANTÓNIMOS:\n AMBIGUO",
         "respuesta": "unívoco",
         "incorrecta1": "claro",
         "incorrecta2": "exacto",
@@ -1992,7 +1992,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ABANDONADO",
+        "pregunta": "ANTÓNIMOS:\n ABANDONADO",
         "respuesta": "Protegido",
         "incorrecta1": "Perezoso",
         "incorrecta2": "Negligente",
@@ -2001,7 +2001,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n UBÉRRIMO",
+        "pregunta": "ANTÓNIMOS:\n UBÉRRIMO",
         "respuesta": "Infecundo",
         "incorrecta1": "Escaso",
         "incorrecta2": "Páramo",
@@ -2010,7 +2010,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ALABAR",
+        "pregunta": "ANTÓNIMOS:\n ALABAR",
         "respuesta": "Insultar",
         "incorrecta1": "Congraciar",
         "incorrecta2": "Adular",
@@ -2019,7 +2019,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n POSTERGAR",
+        "pregunta": "ANTÓNIMOS:\n POSTERGAR",
         "respuesta": "Adelantar",
         "incorrecta1": "Desdeñar",
         "incorrecta2": "Estimular",
@@ -2028,7 +2028,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n INSÍPIDO",
+        "pregunta": "ANTÓNIMOS:\n INSÍPIDO",
         "respuesta": "Sabroso",
         "incorrecta1": "Emancipado",
         "incorrecta2": "Molesto",
@@ -2037,7 +2037,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Prorrogar",
+        "pregunta": "ANTÓNIMOS:\n Prorrogar",
         "respuesta": "Anticipar",
         "incorrecta1": "Acercar",
         "incorrecta2": "Dilatar",
@@ -2055,7 +2055,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Derogar",
+        "pregunta": "ANTÓNIMOS:\n Derogar",
         "respuesta": "Validar",
         "incorrecta1": "Suspender",
         "incorrecta2": "Abrogar",
@@ -2064,7 +2064,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Capcioso",
+        "pregunta": "ANTÓNIMOS:\n Capcioso",
         "respuesta": "Verdadero",
         "incorrecta1": "Benévolo",
         "incorrecta2": "Inquisidor",
@@ -2073,7 +2073,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Errar",
+        "pregunta": "ANTÓNIMOS:\n Errar",
         "respuesta": "Acertar",
         "incorrecta1": "Coincidir",
         "incorrecta2": "Conocer",
@@ -2082,7 +2082,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n CONTENER",
+        "pregunta": "ANTÓNIMOS:\n CONTENER",
         "respuesta": "Soltar",
         "incorrecta1": "Sujetar",
         "incorrecta2": "Sacar",
@@ -2091,7 +2091,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n EXTENUADO",
+        "pregunta": "ANTÓNIMOS:\n EXTENUADO",
         "respuesta": "Descansado",
         "incorrecta1": "Extendido",
         "incorrecta2": "Cansado",
@@ -2100,7 +2100,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n CAUTO",
+        "pregunta": "ANTÓNIMOS: \n CAUTO",
         "respuesta": "Imprudente",
         "incorrecta1": "Desordenado",
         "incorrecta2": "Negligente",
@@ -2109,7 +2109,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n PERSEVERANTE",
+        "pregunta": "ANTÓNIMOS: \n PERSEVERANTE",
         "respuesta": "Indeciso",
         "incorrecta1": "Inseguro",
         "incorrecta2": "Aspirante",
@@ -2118,7 +2118,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n SACRÍLEGO",
+        "pregunta": "ANTÓNIMOS: \n SACRÍLEGO",
         "respuesta": "Creyente",
         "incorrecta1": "Convicto",
         "incorrecta2": "Avaro",
@@ -2127,7 +2127,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n GROSERO",
+        "pregunta": "ANTÓNIMOS: \n GROSERO",
         "respuesta": "Educado",
         "incorrecta1": "Incapaz",
         "incorrecta2": "Ignorancia",
@@ -2136,7 +2136,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n CONVENIO",
+        "pregunta": "ANTÓNIMOS: \n CONVENIO",
         "respuesta": "Desavenencia",
         "incorrecta1": "Pacto",
         "incorrecta2": "Grosero",
@@ -2145,7 +2145,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n DIÁFANO",
+        "pregunta": "ANTÓNIMOS: \n DIÁFANO",
         "respuesta": "lóbrego",
         "incorrecta1": "claro",
         "incorrecta2": "manifiesto",
@@ -2154,7 +2154,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Mito",
+        "pregunta": "ANTÓNIMOS: \n Mito",
         "respuesta": "Realidad",
         "incorrecta1": "Fiesta",
         "incorrecta2": "Creencia",
@@ -2163,7 +2163,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Infortunio",
+        "pregunta": "ANTÓNIMOS: \n Infortunio",
         "respuesta": "Dicha",
         "incorrecta1": "Apogeo",
         "incorrecta2": "Dolor",
@@ -2172,7 +2172,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n AMALGAMAR",
+        "pregunta": "ANTÓNIMOS: \n AMALGAMAR",
         "respuesta": "Dispersar",
         "incorrecta1": "Reunir",
         "incorrecta2": "Animar",
@@ -2181,7 +2181,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Holgado",
+        "pregunta": "ANTÓNIMOS: \n Holgado",
         "respuesta": "Prieto",
         "incorrecta1": "Fastidioso",
         "incorrecta2": "Dolor",
@@ -2190,7 +2190,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Anorexia",
+        "pregunta": "ANTÓNIMOS: \n Anorexia",
         "respuesta": "Apetencia",
         "incorrecta1": "Deseo",
         "incorrecta2": "Elogio",
@@ -2199,7 +2199,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n TODAVÍA",
+        "pregunta": "ANTÓNIMOS: \n TODAVÍA",
         "respuesta": "Ya",
         "incorrecta1": "Ahora",
         "incorrecta2": "Fue",
@@ -2208,7 +2208,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Atrevido",
+        "pregunta": "ANTÓNIMOS: \n Atrevido",
         "respuesta": "Temeroso",
         "incorrecta1": "Enojado",
         "incorrecta2": "Imprudente",
@@ -2217,7 +2217,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n COMPETENTE",
+        "pregunta": "ANTÓNIMOS: \n COMPETENTE",
         "respuesta": "Inepto",
         "incorrecta1": "Estudioso",
         "incorrecta2": "Hábil",
@@ -2226,7 +2226,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Cortés",
+        "pregunta": "ANTÓNIMOS: \n Cortés",
         "respuesta": "Grosero",
         "incorrecta1": "Gastador",
         "incorrecta2": "Sociable",
@@ -2235,7 +2235,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Exquisito",
+        "pregunta": "ANTÓNIMOS: \n Exquisito",
         "respuesta": "Ordinario",
         "incorrecta1": "Lego",
         "incorrecta2": "Plural",
@@ -2244,7 +2244,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n OPTIMISTA",
+        "pregunta": "ANTÓNIMOS: \n OPTIMISTA",
         "respuesta": "Fatalista",
         "incorrecta1": "Periodista",
         "incorrecta2": "Orador",
@@ -2252,8 +2252,8 @@
         "incorrecta4": "Hábil"
     },
     {
-        "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n OSTENTAR",
+        "categoria": "RAZONAMIENTO VERBAL",: 
+        "pregunta": "ANTÓNIMOS: \n OSTENTAR",
         "respuesta": "Ocultar",
         "incorrecta1": "Exhibir",
         "incorrecta2": "Exponer",
@@ -2262,7 +2262,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n DEPONER",
+        "pregunta": "ANTÓNIMOS: \n DEPONER",
         "respuesta": "restituir",
         "incorrecta1": "indemnizar",
         "incorrecta2": "promover",
@@ -2271,7 +2271,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n INFORTUNIO",
+        "pregunta": "ANTÓNIMOS: \n INFORTUNIO",
         "respuesta": "dicha",
         "incorrecta1": "apogeo",
         "incorrecta2": "comodidad",
@@ -2280,7 +2280,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n PROBO",
+        "pregunta": "ANTÓNIMOS: \n PROBO",
         "respuesta": "deshonesto",
         "incorrecta1": "falso",
         "incorrecta2": "vicioso",
@@ -2289,7 +2289,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n ADMONICIÓN",
+        "pregunta": "ANTÓNIMOS: \n ADMONICIÓN",
         "respuesta": "congratulación",
         "incorrecta1": "incentivo",
         "incorrecta2": "elogio",
@@ -2298,7 +2298,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Identifique el antónimo de la palabra relievar.",
+        "pregunta": "ANTÓNIMOS: \n Identifique el antónimo de la palabra relievar.",
         "respuesta": "realzar",
         "incorrecta1": "dispersar",
         "incorrecta2": "disminuir",
@@ -2307,7 +2307,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANTÓNIMOS\n Señale el antónimo de la palabra imprecar",
+        "pregunta": "ANTÓNIMOS: \n Señale el antónimo de la palabra imprecar",
         "respuesta": "loar",
         "incorrecta1": "insultar",
         "incorrecta2": "maldecir",
@@ -2316,7 +2316,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Soldado : Ejército",
+        "pregunta": "ANALOGÍAS: \n Soldado : Ejército",
         "respuesta": "Llave : Llavero",
         "incorrecta1": "Ratón : Gato",
         "incorrecta2": "Paradoja : Contradicción",
@@ -2325,7 +2325,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Pantalón : Camisa",
+        "pregunta": "ANALOGÍAS: \n Pantalón : Camisa",
         "respuesta": "Falda : Blusa",
         "incorrecta1": "Calcetín : Zapato",
         "incorrecta2": "Saco : Terno",
@@ -2334,7 +2334,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Tortuga : Caparazón",
+        "pregunta": "ANALOGÍAS: \n Tortuga : Caparazón",
         "respuesta": "Caballero : coraza",
         "incorrecta1": "Zapato : pie",
         "incorrecta2": "Sombrero : cabeza",
@@ -2343,7 +2343,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n DIRIGIR : GUIAR",
+        "pregunta": "ANALOGÍAS: \n DIRIGIR : GUIAR",
         "respuesta": "persuadir : convencer",
         "incorrecta1": "dificultar : frenar",
         "incorrecta2": "torcer : arrugar",
@@ -2352,7 +2352,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Dirimir : Matrimonio",
+        "pregunta": "ANALOGÍAS: \n Dirimir : Matrimonio",
         "respuesta": "Disolver : Contrato",
         "incorrecta1": "Privar : Quitar",
         "incorrecta2": "Soslayar : Problema",
@@ -2361,7 +2361,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Conjeturar : Corroborar",
+        "pregunta": "ANALOGÍAS: \n Conjeturar : Corroborar",
         "respuesta": "Barruntar : Confirmar",
         "incorrecta1": "Presumir : Creer",
         "incorrecta2": "Proscribir : Prescindir",
@@ -2370,7 +2370,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Hepatitis : Hígado",
+        "pregunta": "ANALOGÍAS: \n Hepatitis : Hígado",
         "respuesta": "Artritis : Articulación",
         "incorrecta1": "Patología : Enfermedad",
         "incorrecta2": "Apéndice : Apendicitis",
@@ -2379,7 +2379,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Menguar : Medrar",
+        "pregunta": "ANALOGÍAS: \n Menguar : Medrar",
         "respuesta": "Mancipar : emancipar",
         "incorrecta1": "Estribar : bajar",
         "incorrecta2": "Acopiar : acaparar",
@@ -2388,7 +2388,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Antropología : Raza",
+        "pregunta": "ANALOGÍAS: \n Antropología : Raza",
         "respuesta": "Axiología : valores",
         "incorrecta1": "Etiología : causas",
         "incorrecta2": "Ontología : conocimientos",
@@ -2397,7 +2397,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Fuego : ceniza",
+        "pregunta": "ANALOGÍAS: \n Fuego : ceniza",
         "respuesta": "Herida : cicatriz",
         "incorrecta1": "Cirujano : operación",
         "incorrecta2": "Fractura : rehabilitación",
@@ -2406,7 +2406,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n ASTROS : ASTRONOMÍA",
+        "pregunta": "ANALOGÍAS: \n ASTROS : ASTRONOMÍA",
         "respuesta": "monedas : numismática",
         "incorrecta1": "muebles : ebanistería",
         "incorrecta2": "estampillas : filatelia",
@@ -2415,7 +2415,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n CÉDULA : SUFRAGIO",
+        "pregunta": "ANALOGÍAS: \n CÉDULA : SUFRAGIO",
         "respuesta": "factura : cobro",
         "incorrecta1": "recibo : honorario",
         "incorrecta2": "voto : candidato",
@@ -2424,7 +2424,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PALABRA : IDEA",
+        "pregunta": "ANALOGÍAS: \n PALABRA : IDEA",
         "respuesta": "retrato : imagen",
         "incorrecta1": "escritura : lenguaje",
         "incorrecta2": "laurel : victoria",
@@ -2433,7 +2433,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n FRÍO : GÉLIDO",
+        "pregunta": "ANALOGÍAS: \n FRÍO : GÉLIDO",
         "respuesta": "caliente : ardiente",
         "incorrecta1": "malo : inferior",
         "incorrecta2": "bueno : superior",
@@ -2442,7 +2442,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n TACITURNO : ALEGRE",
+        "pregunta": "ANALOGÍAS: \n TACITURNO : ALEGRE",
         "respuesta": "belicoso : pacífico",
         "incorrecta1": "dramático : poético",
         "incorrecta2": "armonioso : feliz",
@@ -2451,7 +2451,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n INDOLENTE : APÁTICO",
+        "pregunta": "ANALOGÍAS: \n INDOLENTE : APÁTICO",
         "respuesta": "gallardo : apuesto",
         "incorrecta1": "ignorante : hablador",
         "incorrecta2": "cortés : sonriente",
@@ -2460,7 +2460,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n LACÓNICO : CONCISO",
+        "pregunta": "ANALOGÍAS: \n LACÓNICO : CONCISO",
         "respuesta": "aderezado : aliñado",
         "incorrecta1": "heterodoxo : hereje",
         "incorrecta2": "intempestivo : impertinente",
@@ -2469,7 +2469,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n CREPÚSCULO : DECADENCIA",
+        "pregunta": "ANALOGÍAS: \n CREPÚSCULO : DECADENCIA",
         "respuesta": "alba : renovación",
         "incorrecta1": "mediodía : progreso",
         "incorrecta2": "mañana : promesa",
@@ -2478,7 +2478,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PRISIÓN : SUFRIMIENTO",
+        "pregunta": "ANALOGÍAS: \n PRISIÓN : SUFRIMIENTO",
         "respuesta": "victoria : satisfacción",
         "incorrecta1": "persecución : captura",
         "incorrecta2": "enfermedad : muerte",
@@ -2487,7 +2487,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n RECHAZO : ACOGIDA",
+        "pregunta": "ANALOGÍAS: \n RECHAZO : ACOGIDA",
         "respuesta": "transgresión : observancia",
         "incorrecta1": "convulsión : movilidad",
         "incorrecta2": "carencia : abultamiento",
@@ -2496,7 +2496,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n FELONÍA : PERFIDIA",
+        "pregunta": "ANALOGÍAS: \n FELONÍA : PERFIDIA",
         "respuesta": "lealtad : fidelidad",
         "incorrecta1": "lujuria : pasión",
         "incorrecta2": "indiferencia : menosprecio",
@@ -2505,7 +2505,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PELOTA : FÚTBOL",
+        "pregunta": "ANALOGÍAS: \n PELOTA : FÚTBOL",
         "respuesta": "barco : navegación",
         "incorrecta1": "puerta : departamento",
         "incorrecta2": "podadera : jardín",
@@ -2514,7 +2514,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PREVER : VIDENTE",
+        "pregunta": "ANALOGÍAS: \n PREVER : VIDENTE",
         "respuesta": "indagar : detective",
         "incorrecta1": "novelar : escritor",
         "incorrecta2": "mostrar : docente",
@@ -2523,7 +2523,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n AUDIFONO : OÍDO",
+        "pregunta": "ANALOGÍAS: \n AUDIFONO : OÍDO",
         "respuesta": "Anteojo : Vista",
         "incorrecta1": "Termómetro : Fiebre",
         "incorrecta2": "Pañuelo : mano",
@@ -2532,7 +2532,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n LADRILLO : PARED",
+        "pregunta": "ANALOGÍAS: \n LADRILLO : PARED",
         "respuesta": "Sala : Casa",
         "incorrecta1": "Dial : Radio",
         "incorrecta2": "Aula : Colegio",
@@ -2541,7 +2541,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n CANDIDATO : CONGRESO",
+        "pregunta": "ANALOGÍAS: \n CANDIDATO : CONGRESO",
         "respuesta": "Postulante : Universitario",
         "incorrecta1": "Concursante : Coliseo",
         "incorrecta2": "Participante : Estrado",
@@ -2550,7 +2550,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Canción : cantante",
+        "pregunta": "ANALOGÍAS: \n Canción : cantante",
         "respuesta": "Discurso : orador",
         "incorrecta1": "Química : quimera",
         "incorrecta2": "Análisis : estudiante",
@@ -2559,7 +2559,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Payaso : risa",
+        "pregunta": "ANALOGÍAS: \n Payaso : risa",
         "respuesta": "Alumno : aprendizaje",
         "incorrecta1": "Profesor : colegio",
         "incorrecta2": "Poeta : emoción",
@@ -2568,7 +2568,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Uva : vino",
+        "pregunta": "ANALOGÍAS: \n Uva : vino",
         "respuesta": "Algodón : tela",
         "incorrecta1": "Leche : mantequilla",
         "incorrecta2": "Petróleo : gasolina",
@@ -2577,7 +2577,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Pintura : Color",
+        "pregunta": "ANALOGÍAS: \n Pintura : Color",
         "respuesta": "Música : Nota",
         "incorrecta1": "Arte : Sombrero",
         "incorrecta2": "Agua : Oxígeno",
@@ -2586,7 +2586,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n EMPRESA : GERENTE",
+        "pregunta": "ANALOGÍAS: \n EMPRESA : GERENTE",
         "respuesta": "Barco : capitán",
         "incorrecta1": "Justicia : juez",
         "incorrecta2": "Congreso : congresista",
@@ -2595,7 +2595,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PINTOR : COLOR",
+        "pregunta": "ANALOGÍAS: \n PINTOR : COLOR",
         "respuesta": "Músico : sonido",
         "incorrecta1": "Futbolista : estadio",
         "incorrecta2": "Escultura : Pared",
@@ -2604,7 +2604,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n HOJA : CUADERNO",
+        "pregunta": "ANALOGÍAS: \n HOJA : CUADERNO",
         "respuesta": "Libro : biblioteca",
         "incorrecta1": "Guitarra : cuerda",
         "incorrecta2": "Bosque : árbol",
@@ -2613,7 +2613,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n TABACO : CIGARRO",
+        "pregunta": "ANALOGÍAS: \n TABACO : CIGARRO",
         "respuesta": "Arcilla : ladrillo",
         "incorrecta1": "Papel : árbol",
         "incorrecta2": "Carpa : circo",
@@ -2622,7 +2622,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PALOMA : PAZ",
+        "pregunta": "ANALOGÍAS: \n PALOMA : PAZ",
         "respuesta": "Bandera . Patria",
         "incorrecta1": "Ladrón : Mentira",
         "incorrecta2": "Colegio : Educación",
@@ -2631,7 +2631,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PAGO : TRABAJO",
+        "pregunta": "ANALOGÍAS: \n PAGO : TRABAJO",
         "respuesta": "notas: estudio",
         "incorrecta1": "datos: resultado",
         "incorrecta2": "ancho: largo",
@@ -2640,7 +2640,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Hablar : Gritar",
+        "pregunta": "ANALOGÍAS: \n Hablar : Gritar",
         "respuesta": "Querer : Adorar",
         "incorrecta1": "Odio : Encono",
         "incorrecta2": "Poseer : Tener",
@@ -2649,7 +2649,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n FÚTBOL : CAMPEONATO",
+        "pregunta": "ANALOGÍAS: \n FÚTBOL : CAMPEONATO",
         "respuesta": "tenis : torneo",
         "incorrecta1": "ajedrez : partida",
         "incorrecta2": "básquet : juego",
@@ -2658,7 +2658,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n ESCLAVO : LIBERTAD",
+        "pregunta": "ANALOGÍAS: \n ESCLAVO : LIBERTAD",
         "respuesta": "descarado : pudor",
         "incorrecta1": "inocente : culpa",
         "incorrecta2": "analfabeto : conocimiento",
@@ -2667,7 +2667,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n TAZA : CAFÉ",
+        "pregunta": "ANALOGÍAS: \n TAZA : CAFÉ",
         "respuesta": "plato : sopa",
         "incorrecta1": "olla : arroz",
         "incorrecta2": "botella : vino",
@@ -2676,7 +2676,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n INVESTIGAR : DETECTIVE",
+        "pregunta": "ANALOGÍAS: \n INVESTIGAR : DETECTIVE",
         "respuesta": "enseñar : profesor",
         "incorrecta1": "condenar : juez",
         "incorrecta2": "invertir : prestamista",
@@ -2685,7 +2685,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n HUELGA : DESCONTENTO",
+        "pregunta": "ANALOGÍAS: \n HUELGA : DESCONTENTO",
         "respuesta": "enfrentamiento : desacuerdo",
         "incorrecta1": "trabajo : aminosidad",
         "incorrecta2": "fiesta : baile",
@@ -2694,7 +2694,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n DOLOR : ANALGÉSICO",
+        "pregunta": "ANALOGÍAS: \n DOLOR : ANALGÉSICO",
         "respuesta": "fiebre : antipirético",
         "incorrecta1": "reuma : antihistamínico",
         "incorrecta2": "cáncer : antibiótico",
@@ -2703,7 +2703,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n MOTOR : VEHÍCULO",
+        "pregunta": "ANALOGÍAS: \n MOTOR : VEHÍCULO",
         "respuesta": "corazón : hombre",
         "incorrecta1": "pizarra : salón",
         "incorrecta2": "combustible : tanque",
@@ -2712,7 +2712,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n DESTILAR : ALAMBIQUE",
+        "pregunta": "ANALOGÍAS: \n DESTILAR : ALAMBIQUE",
         "respuesta": "tamizar : colador",
         "incorrecta1": "endulzar : taza",
         "incorrecta2": "triturar : fruta",
@@ -2721,7 +2721,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n NO HAY MAL QUE POR BIEN NO VENGA",
+        "pregunta": "ANALOGÍAS: \n NO HAY MAL QUE POR BIEN NO VENGA",
         "respuesta": "Cuando una puerta se cierra, otra se abre.",
         "incorrecta1": "Dios da barbas a quien no tiene quijada.",
         "incorrecta2": "El que nace lechón, muere cochino.",
@@ -2730,7 +2730,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n FÉRTIL : ESTÉRIL",
+        "pregunta": "ANALOGÍAS: \n FÉRTIL : ESTÉRIL",
         "respuesta": "conocimiento : ignorancia",
         "incorrecta1": "hospitalario : acogedor",
         "incorrecta2": "pacífico : océano",
@@ -2739,7 +2739,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n CABELLO: PELUCA",
+        "pregunta": "ANALOGÍAS: \n CABELLO: PELUCA",
         "respuesta": "Rostro: Máscara",
         "incorrecta1": "Ojos: Ojeras",
         "incorrecta2": "Antifaz: Retina",
@@ -2748,7 +2748,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n CABALLO: HIPÓDROMO",
+        "pregunta": "ANALOGÍAS: \n CABALLO: HIPÓDROMO",
         "respuesta": "Perro: Canódromo",
         "incorrecta1": "Tren: Autódromo",
         "incorrecta2": "Bicicleta: Velódromo",
@@ -2757,7 +2757,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n VENAL : INSOBORNABLE",
+        "pregunta": "ANALOGÍAS: \n VENAL : INSOBORNABLE",
         "respuesta": "Deshonesto : íntegro",
         "incorrecta1": "Refutable : polémico",
         "incorrecta2": "Negligente : desidioso",
@@ -2766,7 +2766,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n BECERRO : BERREA",
+        "pregunta": "ANALOGÍAS: \n BECERRO : BERREA",
         "respuesta": "Toro : muge",
         "incorrecta1": "Hojas : restallan",
         "incorrecta2": "Canario : chirría",
@@ -2775,7 +2775,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n VENAL : INSOBORNABLE",
+        "pregunta": "ANALOGÍAS: \n VENAL : INSOBORNABLE",
         "respuesta": "Deshonesto : íntegro",
         "incorrecta1": "Refutable : polémico",
         "incorrecta2": "Negligente : desidioso",
@@ -2784,7 +2784,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n ENFERMO : VIRUS",
+        "pregunta": "ANALOGÍAS: \n ENFERMO : VIRUS",
         "respuesta": "reo : delito",
         "incorrecta1": "alumno : acoso",
         "incorrecta2": "cadáver : enfermedad",
@@ -2793,7 +2793,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n FESTÍN : ABUNDANTE",
+        "pregunta": "ANALOGÍAS: \n FESTÍN : ABUNDANTE",
         "respuesta": "banquete : opíparo",
         "incorrecta1": "cárcel : reo",
         "incorrecta2": "manzana : sidra",
@@ -2802,7 +2802,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n DORSO : FRENTE",
+        "pregunta": "ANALOGÍAS: \n DORSO : FRENTE",
         "respuesta": "reverso : anverso",
         "incorrecta1": "moneda: sello",
         "incorrecta2": "lateral : lado",
@@ -2811,7 +2811,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n TELESCOPIO : PLANETA",
+        "pregunta": "ANALOGÍAS: \n TELESCOPIO : PLANETA",
         "respuesta": "microscopio : microbio",
         "incorrecta1": "binocular : paisaje",
         "incorrecta2": "lente : ojo",
@@ -2820,7 +2820,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n RELIGIÓN : FE",
+        "pregunta": "ANALOGÍAS: \n RELIGIÓN : FE",
         "respuesta": "ciencia : comprobación",
         "incorrecta1": "arte : musa",
         "incorrecta2": "deporte : acción",
@@ -2829,7 +2829,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n PAGO : TRABAJO",
+        "pregunta": "ANALOGÍAS: \n PAGO : TRABAJO",
         "respuesta": "notas: estudio",
         "incorrecta1": "datos: resultado",
         "incorrecta2": "ancho: largo",
@@ -2838,7 +2838,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n Hablar – Gritar",
+        "pregunta": "ANALOGÍAS: \n Hablar – Gritar",
         "respuesta": "Querer – Adorar",
         "incorrecta1": "Odio – Encono",
         "incorrecta2": "Poseer – Tener",
@@ -2847,7 +2847,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n EMPRESA : GERENTE",
+        "pregunta": "ANALOGÍAS: \n EMPRESA : GERENTE",
         "respuesta": "Barco : capitán",
         "incorrecta1": "Justicia : juez",
         "incorrecta2": "Congreso : congresista",
@@ -2856,7 +2856,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n HETERÓCLITO : IRREGULAR",
+        "pregunta": "ANALOGÍAS: \n HETERÓCLITO : IRREGULAR",
         "respuesta": "dispar : desigual",
         "incorrecta1": "disidente : conformista",
         "incorrecta2": "enervado : violento",
@@ -2865,7 +2865,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ANALOGÍAS\n ESMIRRIADO : FAMÉLICO",
+        "pregunta": "ANALOGÍAS: \n ESMIRRIADO : FAMÉLICO",
         "respuesta": "hético : escuálido",
         "incorrecta1": "esbelto : duro",
         "incorrecta2": "magro : lóbrego",
@@ -2874,7 +2874,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Los pecados de nuestro….., como los consuelos de la religión son tan…. que no nos detenemos a examinar las pruebas con….",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Los pecados de nuestro….., como los consuelos de la religión son tan…. que no nos detenemos a examinar las pruebas con….",
         "respuesta": "Prójimo – agradables – atención",
         "incorrecta1": "Vecino - escabrosos - realismo",
         "incorrecta2": "Hermano – íntimos – objetividad",
@@ -2883,7 +2883,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n El avance tecnológico ha generado variados….. sociales, cuya…. se hace día a día más compleja.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n El avance tecnológico ha generado variados….. sociales, cuya…. se hace día a día más compleja.",
         "respuesta": "Conflictos – solución",
         "incorrecta1": "Cambios – apariencia",
         "incorrecta2": "Fenómenos – meta",
@@ -2892,7 +2892,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Se dice que cuando al juzgar un hecho está…. nuestra autoestima, es imposible…. nuestra objetividad.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Se dice que cuando al juzgar un hecho está…. nuestra autoestima, es imposible…. nuestra objetividad.",
         "respuesta": "Involucrada – garantizar",
         "incorrecta1": "Incluida – condiciones",
         "incorrecta2": "Valorada – dejar",
@@ -2901,7 +2901,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n ___hay que exigir en las personas más de una cualidad . Si les_____una , debemos ya sentirnos agradecidos y juzgarla solamente por ella y no por las que les ____.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n ___hay que exigir en las personas más de una cualidad . Si les_____una , debemos ya sentirnos agradecidos y juzgarla solamente por ella y no por las que les ____.",
         "respuesta": "No – encontramos – faltan",
         "incorrecta1": "Porque – perdonamos – exceden",
         "incorrecta2": "Sí – hallamos – sobran",
@@ -2910,7 +2910,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n  Podemos concebir un____sin tiempo, pero no un_____sin espacio. El tiempo necesita de las cosas para existir. En un universo absolutamente___,el tiempo no existe.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n  Podemos concebir un____sin tiempo, pero no un_____sin espacio. El tiempo necesita de las cosas para existir. En un universo absolutamente___,el tiempo no existe.",
         "respuesta": "espacio – tiempo – vacío",
         "incorrecta1": "universo – hombre – relativo",
         "incorrecta2": "mundo – ser – pleno",
@@ -2919,7 +2919,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Ofrecer a cada persona la posibilidad de _________en la discusión significará_______ la unidad.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Ofrecer a cada persona la posibilidad de _________en la discusión significará_______ la unidad.",
         "respuesta": "participar – fortalecer",
         "incorrecta1": "intervenir – socavar",
         "incorrecta2": "opinar – ampliar",
@@ -2928,7 +2928,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La última______publicada para servicio postal internacional________ un incremento del 40%.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La última______publicada para servicio postal internacional________ un incremento del 40%.",
         "respuesta": "tarifa – establece",
         "incorrecta1": "tasa – valoriza",
         "incorrecta2": "relación – reconoce",
@@ -2937,7 +2937,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Lo sorpresivo de la________provocó_______en los ciudadanos.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Lo sorpresivo de la________provocó_______en los ciudadanos.",
         "respuesta": "denuncia – desconcierto",
         "incorrecta1": "primicia – alivio",
         "incorrecta2": "noticia – entusiasmo",
@@ -2946,7 +2946,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n  El caso era tan_________que una solución________era inminente.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n  El caso era tan_________que una solución________era inminente.",
         "respuesta": "sencillo – satisfactoria",
         "incorrecta1": "reciente – negociada",
         "incorrecta2": "enredado – rápida",
@@ -2955,7 +2955,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Para la consulta rápida de_______fuentes impresas y manuscritas se requiere de un_______ sistemático.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Para la consulta rápida de_______fuentes impresas y manuscritas se requiere de un_______ sistemático.",
         "respuesta": "variadas – catálogo",
         "incorrecta1": "modernas – esquema",
         "incorrecta2": "algunas – diccionario",
@@ -2964,7 +2964,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Generalmente las aves______ grandes distancias en busca de_________",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Generalmente las aves______ grandes distancias en busca de_________",
         "respuesta": "viajan – alimentos.",
         "incorrecta1": "vuelan – paisajes.",
         "incorrecta2": "cruzan – compañía.",
@@ -2973,7 +2973,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Intentó________pero las piernas no le_______como su lúcido cerebro.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Intentó________pero las piernas no le_______como su lúcido cerebro.",
         "respuesta": "correr – ayudaban",
         "incorrecta1": "moverse – obedecían",
         "incorrecta2": "huir – estimulaban",
@@ -2982,7 +2982,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La gente se porta de modo______ _en circunstancias__________",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La gente se porta de modo______ _en circunstancias__________",
         "respuesta": "diferente – similares.",
         "incorrecta1": "peculiar –familiares.",
         "incorrecta2": "especial – aparentes.",
@@ -2991,7 +2991,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Conocía el Perú en lo más recóndito y variado de su suelo; por eso, al pintar su __________ Io hizo con __________.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Conocía el Perú en lo más recóndito y variado de su suelo; por eso, al pintar su __________ Io hizo con __________.",
         "respuesta": "paisaje – fidelidad",
         "incorrecta1": "naturaleza – emoción",
         "incorrecta2": "terruño – vigor",
@@ -3000,7 +3000,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n El tema de la_________cultural sudamericana y la manera en que los_________la abordan , ofrecen suficientes motivos para mostrarse escéptico.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n El tema de la_________cultural sudamericana y la manera en que los_________la abordan , ofrecen suficientes motivos para mostrarse escéptico.",
         "respuesta": "política – responsables",
         "incorrecta1": "unidad – científicos",
         "incorrecta2": "historia – dirigentes",
@@ -3009,7 +3009,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La ___________cultural del país se manifiesta en la coexistencia de _________en el territorio.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La ___________cultural del país se manifiesta en la coexistencia de _________en el territorio.",
         "respuesta": "pluralidad – diversas tradiciones",
         "incorrecta1": "homogeneidad – costumbres complementarias",
         "incorrecta2": "unidad – ciudades similares",
@@ -3018,7 +3018,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n  La reactivación_________ del país depende también del incremento de las____________.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n  La reactivación_________ del país depende también del incremento de las____________.",
         "respuesta": "económica – exportaciones",
         "incorrecta1": "política – extradiciones",
         "incorrecta2": "moral – sanciones",
@@ -3027,7 +3027,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Todos tenemos_________de habitar en un ambiente__________equilibrado.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Todos tenemos_________de habitar en un ambiente__________equilibrado.",
         "respuesta": "el derecho – ecológicamente",
         "incorrecta1": "la necesidad – planificadamente",
         "incorrecta2": "el deber – socialmente",
@@ -3036,7 +3036,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Los _______dejaron en las cavernas dibujos sorprendentes de gran fuerza__________",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Los _______dejaron en las cavernas dibujos sorprendentes de gran fuerza__________",
         "respuesta": "primitivos – expresiva .",
         "incorrecta1": "nómades – lúdica.",
         "incorrecta2": "antiguos – comunicativa.",
@@ -3045,7 +3045,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Es ____________ obligar a un corredor que ha llegado al límite de sus fuerzas a__________ otro obstáculo más.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Es ____________ obligar a un corredor que ha llegado al límite de sus fuerzas a__________ otro obstáculo más.",
         "respuesta": "difícil – saltar",
         "incorrecta1": "inconveniente – omitir",
         "incorrecta2": "fácil – pasar",
@@ -3054,7 +3054,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Se denomina .................. a aquel que fallece por defender las causas o ............ de los otros.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Se denomina .................. a aquel que fallece por defender las causas o ............ de los otros.",
         "respuesta": "héroe - creencias",
         "incorrecta1": "tirano - fechorías",
         "incorrecta2": "santo - costumbres",
@@ -3063,7 +3063,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La inmediata ______de los pobladores ______una tragedia mayor.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La inmediata ______de los pobladores ______una tragedia mayor.",
         "respuesta": "evacuación – evitó",
         "incorrecta1": "intervención - facilitó",
         "incorrecta2": "actuación - predijo",
@@ -3072,7 +3072,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Todos los sistemas se han ________________para hacer los más manejables por los ____________.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Todos los sistemas se han ________________para hacer los más manejables por los ____________.",
         "respuesta": "simplificado - usuarios",
         "incorrecta1": "eliminados - conocidos",
         "incorrecta2": "facilitado - expertos",
@@ -3081,7 +3081,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La ............ es una virtud, cuando se necesitan .......... meditadas.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La ............ es una virtud, cuando se necesitan .......... meditadas.",
         "respuesta": "paciencia – decisiones",
         "incorrecta1": "astucia – leyes",
         "incorrecta2": "prisa – definiciones",
@@ -3090,7 +3090,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La amabilidad con que fueron recibidos los adversarios, hacía ________que la contienda se efectuaría con ________ .",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La amabilidad con que fueron recibidos los adversarios, hacía ________que la contienda se efectuaría con ________ .",
         "respuesta": "esperar – lealtad",
         "incorrecta1": "suponer - violencia",
         "incorrecta2": "confiar – vehemencia",
@@ -3099,7 +3099,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Nadie pone más en evidencia su………………………..y mala crianza, que el que empieza a…………………….antes que su interlocutor haya concluido.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Nadie pone más en evidencia su………………………..y mala crianza, que el que empieza a…………………….antes que su interlocutor haya concluido.",
         "respuesta": "torpeza - habla",
         "incorrecta1": "discutir - carácter",
         "incorrecta2": "torpeza - insultar",
@@ -3108,7 +3108,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n En la vida, ningún éxito es posible .............. te vuelves .................levantar después de la caída.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n En la vida, ningún éxito es posible .............. te vuelves .................levantar después de la caída.",
         "respuesta": "si no – a",
         "incorrecta1": "sino – para",
         "incorrecta2": "si – a",
@@ -3117,7 +3117,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Los dos amigos conversaron largo rato y después del amistoso………. se pusieron de …………. a fin de verse con frecuencia.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Los dos amigos conversaron largo rato y después del amistoso………. se pusieron de …………. a fin de verse con frecuencia.",
         "respuesta": "diálogo – acuerdo",
         "incorrecta1": "monólogo – lado",
         "incorrecta2": "diálogo – Fe",
@@ -3126,7 +3126,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Bajo una atmósfera de solemnidad y ............... el acusado ingresó; su presencia desató ............... entre la multitud.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Bajo una atmósfera de solemnidad y ............... el acusado ingresó; su presencia desató ............... entre la multitud.",
         "respuesta": "expectativa - comentarios",
         "incorrecta1": "pesar - sofocamiento",
         "incorrecta2": "recogimiento - diálogos",
@@ -3135,7 +3135,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Primero fue un poeta que escribió relatos………………….., luego un novelista que escribía obras de………………………",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Primero fue un poeta que escribió relatos………………….., luego un novelista que escribía obras de………………………",
         "respuesta": "breves - teatro.",
         "incorrecta1": "mínimos - resumen.",
         "incorrecta2": "amplios - literatura.",
@@ -3144,7 +3144,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Quién da su vida por algo grande es un ……. pero quién arriesga por una tontería es un ……………",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Quién da su vida por algo grande es un ……. pero quién arriesga por una tontería es un ……………",
         "respuesta": "héroe – necio.",
         "incorrecta1": "valiente – héroe.",
         "incorrecta2": "patriota – suicida.",
@@ -3153,7 +3153,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Fue víctima de _________pero se calló para que no lo llamen________",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Fue víctima de _________pero se calló para que no lo llamen________",
         "respuesta": "fraude - tonto.",
         "incorrecta1": "un chantaje - loco.",
         "incorrecta2": "un robo - cobarde.",
@@ -3162,7 +3162,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Los hechos de la vida siempre implican causalidad, por eso nada .................. tanto éxito como una buena ....................",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Los hechos de la vida siempre implican causalidad, por eso nada .................. tanto éxito como una buena ....................",
         "respuesta": "produce - preparación.",
         "incorrecta1": "significa - dedicación.",
         "incorrecta2": "genera - alimentación.",
@@ -3171,7 +3171,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n El ............. de las aves enternecía el ................... de los enamorados, sus latidos se fundían en una sinfonía.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n El ............. de las aves enternecía el ................... de los enamorados, sus latidos se fundían en una sinfonía.",
         "respuesta": "canto - corazón",
         "incorrecta1": "murmullo - amor",
         "incorrecta2": "chillido - corazón",
@@ -3180,7 +3180,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n La adolescencia es una etapa _____________, en la que las diferencias ______________ se acentúan.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n La adolescencia es una etapa _____________, en la que las diferencias ______________ se acentúan.",
         "respuesta": "conflictiva - generacionales",
         "incorrecta1": "psicológica - conceptuales",
         "incorrecta2": "transitoria - permanentes",
@@ -3189,7 +3189,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Mientras ________animadamente, ________sus manos de manera muy alegre.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Mientras ________animadamente, ________sus manos de manera muy alegre.",
         "respuesta": "conversa – movía",
         "incorrecta1": "significa – dedicación",
         "incorrecta2": "caminaba – descendía",
@@ -3198,7 +3198,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n El solo sabía .... en silencio y no podía dar nunca voz a su ...",
+        "pregunta": "ORACIONES INCOMPLETAS: \n El solo sabía .... en silencio y no podía dar nunca voz a su ...",
         "respuesta": "sufrir - pena.",
         "incorrecta1": "reir - carcajada.",
         "incorrecta2": "llorar - desgracia.",
@@ -3207,7 +3207,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Tener palabras de ... para el (la) .... de su jefe le costo el empleo.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Tener palabras de ... para el (la) .... de su jefe le costo el empleo.",
         "respuesta": "elogio - rival",
         "incorrecta1": "crítica - personal",
         "incorrecta2": "reconocimiento - socio",
@@ -3216,7 +3216,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n No necesitaba de mucho(a)…………para controlarse porque su carácter era…………",
+        "pregunta": "ORACIONES INCOMPLETAS: \n No necesitaba de mucho(a)…………para controlarse porque su carácter era…………",
         "respuesta": "esfuerzo - apacible.",
         "incorrecta1": "inteligencia - tranquilo.",
         "incorrecta2": "trabajo - sumiso.",
@@ -3225,7 +3225,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "ORACIONES INCOMPLETAS\n Tus …… serán……se te advirtió que no manejaras ebrio. Ahora el carro esta inservible.",
+        "pregunta": "ORACIONES INCOMPLETAS: \n Tus …… serán……se te advirtió que no manejaras ebrio. Ahora el carro esta inservible.",
         "respuesta": "disculpas - inútiles",
         "incorrecta1": "esfuerzos - en vano",
         "incorrecta2": "pretextos - desoídos",
@@ -3233,7 +3233,7 @@
         "incorrecta4": "argumentos - infructuosos"
     },
     {
-        "categoria": "RAZONAMIENTO VERBAL",
+        "categoria": "RAZONAMIENTO VERBAL: ",
         "pregunta": "CONECTORES LÓGICOS\n La tecnología no es en si el fin… el medio entre la sociedad del conocimiento… el desarrollo mundial. Esta es la razón … no se debe sobrevalorar su utilidad.",
         "respuesta": "sino – y – por que",
         "incorrecta1": "Con que – y - porque",
@@ -3243,7 +3243,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n …… la filosofía verdadera no está al alcance de cualquier individuo, … todas las obras de los filósofos son inútiles.",
+        "pregunta": "CONECTORES LÓGICOS: \n …… la filosofía verdadera no está al alcance de cualquier individuo, … todas las obras de los filósofos son inútiles.",
         "respuesta": "Si - entonces",
         "incorrecta1": "También - sino",
         "incorrecta2": "Si – ya que",
@@ -3252,7 +3252,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n El día es acogedor...... ,iremos a la playa; ........, regresaremos temprano...... ..., mañana tendremos una importante reunión en la oficina.",
+        "pregunta": "CONECTORES LÓGICOS: \n El día es acogedor...... ,iremos a la playa; ........, regresaremos temprano...... ..., mañana tendremos una importante reunión en la oficina.",
         "respuesta": "por eso – sin embargo – porque",
         "incorrecta1": "luego – empero – antes bien",
         "incorrecta2": "por consiguiente – no obstante – entonces",
@@ -3261,7 +3261,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n  ......... el humo del cigarrillo afecta tu respiración, ......... lo harán los gases del parque automotor.",
+        "pregunta": "CONECTORES LÓGICOS: \n  ......... el humo del cigarrillo afecta tu respiración, ......... lo harán los gases del parque automotor.",
         "respuesta": "Si – cuánto más",
         "incorrecta1": "A pesar de que – más bien",
         "incorrecta2": "Asimismo – aun más",
@@ -3270,7 +3270,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n Salió ileso del accidente automovilístico, ......... aprendió que la velocidad es peligrosa, .......... conducirá a partir de ahora con precaución y tino.",
+        "pregunta": "CONECTORES LÓGICOS: \n Salió ileso del accidente automovilístico, ......... aprendió que la velocidad es peligrosa, .......... conducirá a partir de ahora con precaución y tino.",
         "respuesta": "pero – por eso",
         "incorrecta1": "ya que – por lo tanto",
         "incorrecta2": "sin embargo – por más que",
@@ -3279,7 +3279,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n Entonces, la mujer ofreció al gato un tazón de leche y le dijo: «Oh, gato, eres tan sagaz como un hombre ;_____recuerda que no hiciste el trato con el hombre ______con el perro ,_____no sé qué harán ellos cuando lleguen a casa».",
+        "pregunta": "CONECTORES LÓGICOS: \n Entonces, la mujer ofreció al gato un tazón de leche y le dijo: «Oh, gato, eres tan sagaz como un hombre ;_____recuerda que no hiciste el trato con el hombre ______con el perro ,_____no sé qué harán ellos cuando lleguen a casa».",
         "respuesta": "pero - ni - y",
         "incorrecta1": "aunque - o - y",
         "incorrecta2": "pues - ni - ahora",
@@ -3288,7 +3288,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n ______quiso leer ese libro,_____ nunca había tenido tiempo;____________ decidió tomar una semana de vacaciones,________dedicarla exclusivamente a tan ansiada lectura.",
+        "pregunta": "CONECTORES LÓGICOS: \n ______quiso leer ese libro,_____ nunca había tenido tiempo;____________ decidió tomar una semana de vacaciones,________dedicarla exclusivamente a tan ansiada lectura.",
         "respuesta": "Siempre - pero - por ello - a fin de",
         "incorrecta1": "Antes - aunque - por esto - y",
         "incorrecta2": "Después - si bien - por lo cual - y",
@@ -3297,7 +3297,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n El día de ayer fue, como se diría, un día de «calma chicha»,_______ni frío____caluroso; _____luminoso ni oscuro; hoy,________,hemos tenido un día de sol refulgente.",
+        "pregunta": "CONECTORES LÓGICOS: \n El día de ayer fue, como se diría, un día de «calma chicha»,_______ni frío____caluroso; _____luminoso ni oscuro; hoy,________,hemos tenido un día de sol refulgente.",
         "respuesta": "es decir - ni - ni - en cambio",
         "incorrecta1": "mientras - o - ni - por tanto",
         "incorrecta2": "aunque - y - de - a diferencia",
@@ -3306,7 +3306,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n  ___________dices que no entiendes lo que lees; _________utiliza alguna técnica para comprender el texto ;_____el subrayado_____ la técnica de los mapas conceptuales.",
+        "pregunta": "CONECTORES LÓGICOS: \n  ___________dices que no entiendes lo que lees; _________utiliza alguna técnica para comprender el texto ;_____el subrayado_____ la técnica de los mapas conceptuales.",
         "respuesta": "Si - entonces - por ejemplo - o",
         "incorrecta1": "Aunque - pues - es decir - y",
         "incorrecta2": "Ni - ni - o sea - también",
@@ -3315,7 +3315,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n _______quieres guardar una información en la computadora, primero haga clic en archivo, ______otro en guardar como; seleccione la unidad que se archivará; _____ , escriba el nombre del documento.",
+        "pregunta": "CONECTORES LÓGICOS: \n _______quieres guardar una información en la computadora, primero haga clic en archivo, ______otro en guardar como; seleccione la unidad que se archivará; _____ , escriba el nombre del documento.",
         "respuesta": "Si - luego - después - finalmente",
         "incorrecta1": "Aunque - y - más tarde - después",
         "incorrecta2": "Si - entonces - a continuación - es decir",
@@ -3324,7 +3324,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n _____la ves, te esquiva la mirada: ____vuelves a verla, se sonríe con disimulo;__________ necesita un trato especial y amable.",
+        "pregunta": "CONECTORES LÓGICOS: \n _____la ves, te esquiva la mirada: ____vuelves a verla, se sonríe con disimulo;__________ necesita un trato especial y amable.",
         "respuesta": "Si - si - es decir - y",
         "incorrecta1": "Aunque - y - entonces - o",
         "incorrecta2": "Porque - ni - ni - no",
@@ -3333,7 +3333,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n Amo la vida al aire libre ,___________ , salir al campo, caminar, ver el cielo, gozar del mar._________, si me dan la oportunidad de quedarme todo el día en casa a descansar, _______ , acepto con gusto.",
+        "pregunta": "CONECTORES LÓGICOS: \n Amo la vida al aire libre ,___________ , salir al campo, caminar, ver el cielo, gozar del mar._________, si me dan la oportunidad de quedarme todo el día en casa a descansar, _______ , acepto con gusto.",
         "respuesta": "es decir – Sin embargo – ni dudarlo",
         "incorrecta1": "por tanto – Pero – no obstante",
         "incorrecta2": "no obstante – Por tanto – sin dudarlo",
@@ -3342,7 +3342,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n  ___________el término ciudad no está adscrito a un cuerpo teórico específico, sin embargo,la denotación espacial es la que prima, finalmente, sobre el concepto de ciudad.",
+        "pregunta": "CONECTORES LÓGICOS: \n  ___________el término ciudad no está adscrito a un cuerpo teórico específico, sin embargo,la denotación espacial es la que prima, finalmente, sobre el concepto de ciudad.",
         "respuesta": "Si bien",
         "incorrecta1": "Puesto que",
         "incorrecta2": "Porque",
@@ -3351,7 +3351,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n ________digas lo contrario; ___________ ,ocultas tus verdaderos sentimientos , ___________ sé de buena fuente que aún me quieres ________tantos años que estoy lejos de ti.",
+        "pregunta": "CONECTORES LÓGICOS: \n ________digas lo contrario; ___________ ,ocultas tus verdaderos sentimientos , ___________ sé de buena fuente que aún me quieres ________tantos años que estoy lejos de ti.",
         "respuesta": "Así– sin embargo – porque – a pesar de",
         "incorrecta1": "Puesto que – aún – pues – si bien",
         "incorrecta2": "Si – además – es decir – aunque",
@@ -3360,7 +3360,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n ________el chofer manejaba prudentemente , chocó _____ le fallaron los frenos.",
+        "pregunta": "CONECTORES LÓGICOS: \n ________el chofer manejaba prudentemente , chocó _____ le fallaron los frenos.",
         "respuesta": "Por más que – porque",
         "incorrecta1": "Aunque – entonces",
         "incorrecta2": "Luego que – pero",
@@ -3369,7 +3369,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n _________cada vez se habla más sobre los OVNIS , éstos_______ siguen siendo un misterio.",
+        "pregunta": "CONECTORES LÓGICOS: \n _________cada vez se habla más sobre los OVNIS , éstos_______ siguen siendo un misterio.",
         "respuesta": "Aunque – todavía",
         "incorrecta1": "Pese a que – si",
         "incorrecta2": "Aún cuando – también",
@@ -3378,7 +3378,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n Si llegaras a alcanzar una vacante y _______ocuparas uno de los primeros puestos_______ el viaje a Francia estaría asegurado.",
+        "pregunta": "CONECTORES LÓGICOS: \n Si llegaras a alcanzar una vacante y _______ocuparas uno de los primeros puestos_______ el viaje a Francia estaría asegurado.",
         "respuesta": "además – entonces",
         "incorrecta1": "luego – puede que",
         "incorrecta2": "en caso de que – así",
@@ -3387,7 +3387,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n Los docentes, en su práctica profesional, no solo deben dominar los contenidos que imparten; .............. es necesario ............... faciliten el aprendizaje y la participación de todos los estudiantes; ............... de esta manera se propicia oportunidades de mayor desarrollo e inclusión educativa. ..............., es importante la actitud del profesor ante los estudiantes con distintas necesidades educativas.",
+        "pregunta": "CONECTORES LÓGICOS: \n Los docentes, en su práctica profesional, no solo deben dominar los contenidos que imparten; .............. es necesario ............... faciliten el aprendizaje y la participación de todos los estudiantes; ............... de esta manera se propicia oportunidades de mayor desarrollo e inclusión educativa. ..............., es importante la actitud del profesor ante los estudiantes con distintas necesidades educativas.",
         "respuesta": "sino que - que - ya que - Por eso",
         "incorrecta1": "si no que - de que - pues - Entonces",
         "incorrecta2": "por lo tanto - y - porque - Asimismo",
@@ -3396,7 +3396,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n Repentinamente la niña entró al salón y abrazó cálidamente a su perrito , __________ este gesto no sorprendió________________ alos familiares _________ a las autoridades que asistieron al evento.",
+        "pregunta": "CONECTORES LÓGICOS: \n Repentinamente la niña entró al salón y abrazó cálidamente a su perrito , __________ este gesto no sorprendió________________ alos familiares _________ a las autoridades que asistieron al evento.",
         "respuesta": "sin embargo – ni – ni",
         "incorrecta1": "pues – ni – y",
         "incorrecta2": "aunque – primero – luego",
@@ -3405,7 +3405,7 @@
     },
     {
         "categoria": "RAZONAMIENTO VERBAL",
-        "pregunta": "CONECTORES LÓGICOS\n La computadora no reemplazará al ser humano .........aquélla no es capaz de jerarquizar rigurosamente la información; ......... el cerebro humano si analiza y sistematiza el conocimiento que recibe y asimila.",
+        "pregunta": "CONECTORES LÓGICOS: \n La computadora no reemplazará al ser humano .........aquélla no es capaz de jerarquizar rigurosamente la información; ......... el cerebro humano si analiza y sistematiza el conocimiento que recibe y asimila.",
         "respuesta": "porque – mientras que",
         "incorrecta1": "empero –aun cuando",
         "incorrecta2": "debido a – que luego",
