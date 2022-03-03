@@ -123,81 +123,81 @@ function obtenerdatos(){
 
     switch (canal) {
       case 1:
-        inicio1= 0;
-        inicio2= 5;
-        inicio3= 10;
-        inicio4= 15;
-        inicio5= 20;
-        inicio6= 25;
-        inicio7= 30;
-        inicio8= 35;
+        inicio1= 104;
+        inicio2= 0;
+        inicio3= 377;
+        inicio4= 481;
+        inicio5= 1097;
+        inicio6= 1434;
+        inicio7= 590;
+        inicio8= 690;
 
-        fin1 = 4;
-        fin2 = 9;
-        fin3 = 14;
-        fin4 = 19;
-        fin5 = 24;
-        fin6 = 29;
-        fin7 = 34;
-        fin8 = 39;
+        fin1 = 376;
+        fin2 = 103;
+        fin3 = 480;
+        fin4 = 589;
+        fin5 = 1223;
+        fin6 = 1555;
+        fin7 = 689;
+        fin8 = 789;
       
         break;
       case 2:
-        inicio1= 0;
-        inicio2= 5;
-        inicio3= 10;
-        inicio4= 15;
-        inicio5= 20;
-        inicio6= 25;
-        inicio7= 30;
-        inicio8= 35;
+        inicio1= 104;
+        inicio2= 0;
+        inicio3= 377;
+        inicio4= 481;
+        inicio5= 1097;
+        inicio6= 790;
+        inicio7= 590;
+        inicio8= 690;
 
-        fin1 = 4;
-        fin2 = 9;
-        fin3 = 14;
-        fin4 = 19;
-        fin5 = 24;
-        fin6 = 29;
-        fin7 = 34;
-        fin8 = 39;
+        fin1 = 376;
+        fin2 = 103;
+        fin3 = 480;
+        fin4 = 589;
+        fin5 = 1223;
+        fin6 = 849;
+        fin7 = 689;
+        fin8 = 789;
         break;
       case 3:
-        inicio1= 0;
-        inicio2= 5;
-        inicio3= 10;
-        inicio4= 15;
-        inicio5= 20;
-        inicio6= 25;
-        inicio7= 30;
-        inicio8= 35;
+        inicio1= 104;
+        inicio2= 0;
+        inicio3= 377;
+        inicio4= 1224;
+        inicio5= 1097;
+        inicio6= 950;
+        inicio7= 1324;
+        inicio8= 850;
 
-        fin1 = 4;
-        fin2 = 9;
-        fin3 = 14;
-        fin4 = 19;
-        fin5 = 24;
-        fin6 = 29;
-        fin7 = 34;
-        fin8 = 39;
+        fin1 = 376;
+        fin2 = 103;
+        fin3 = 480;
+        fin4 = 1323;
+        fin5 = 1223;
+        fin6 = 1096;
+        fin7 = 1433;
+        fin8 = 949;
         break;
       case 4:
-        inicio1= 0;
-        inicio2= 5;
-        inicio3= 10;
-        inicio4= 15;
-        inicio5= 20;
-        inicio6= 25;
-        inicio7= 30;
-        inicio8= 35;
+        inicio1= 104;
+        inicio2= 0;
+        inicio3= 377;
+        inicio4= 481;
+        inicio5= 1097;
+        inicio6= 950;
+        inicio7= 1324;
+        inicio8= 850;
 
-        fin1 = 4;
-        fin2 = 9;
-        fin3 = 14;
-        fin4 = 19;
-        fin5 = 24;
-        fin6 = 29;
-        fin7 = 34;
-        fin8 = 39;
+        fin1 = 376;
+        fin2 = 103;
+        fin3 = 480;
+        fin4 = 589;
+        fin5 = 1223;
+        fin6 = 1096;
+        fin7 = 1433;
+        fin8 = 949;
         break;
       default:
         return
@@ -398,7 +398,9 @@ function escogerPregunta(n) {
     select_id("puntaje").innerHTML = "";
   }
 
+ /*  style("imagen").objectFit = pregunta.objectFit; */
   style("imagen").objectFit = pregunta.objectFit;
+
   desordenarRespuestas(pregunta);
   if (pregunta.imagen) {
     select_id("imagen").setAttribute("src", pregunta.imagen);
