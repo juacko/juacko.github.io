@@ -1,6 +1,11 @@
 let preguntas_aleatorias = true;
 let mostrar_pantalla_juego_términado = true;
 let reiniciar_puntos_al_reiniciar_el_juego = true;
+
+var horas = 1;
+var minutos = 0;
+var segundos = 0;
+
 var inicio_juego = false;
 var canal = 0;
 
@@ -54,9 +59,14 @@ let preguntas_hechas = 0;
 let preguntas_correctas = 0;
 
 function iniciarExamen() {
+
+  horas = 0
+  minutos = 0
+  segundos = 0
   closeModal();
   showQuizPanel()
   obtenerdatos();
+  showTimerQuiz();
   entrada1 = document.getElementById("entrada1").value;
 }
 
@@ -202,10 +212,9 @@ function obtenerdatos(){
       default:
         return
     }
-
+    console.log(valor8)
+    obtenerTiempo(valor8)
     escogerPreguntaAleatoria()
-
-
 
 }
 
@@ -350,25 +359,8 @@ function escogerPreguntaAleatoria() {
   if (npreguntas.length == valor8) {
     //reemplazar interprete_bp por la numero de preguntas(por crear)
     //Aquí es donde el juego se reinicia
-    if (mostrar_pantalla_juego_términado) {
-      swal
-        .fire({
-          title: "Examen Terminado",
-          text: "Puntuacion:" + preguntas_correctas + "/" + preguntas_hechas,
-          icon: "success",
-          showCancelButton: true,
-          cancelButtonText: "Salir",
-          confirmButtonColor: "#3085d6",
-          cancelButtonColor: "#d33",
-          confirmButtonText: "Intentar de nuevo!",
-        })
-        .then((result) => {
-          if (result.isConfirmed) {
-            Swal.fire("Reiniciando!", "Selecciona una categoria", "success");
-          }
-         hideQuizPanel()
-        });
-    }
+    juegoterminado()
+    
 
     if (reiniciar_puntos_al_reiniciar_el_juego) {
       preguntas_correctas = 0;
@@ -385,6 +377,32 @@ function escogerPreguntaAleatoria() {
  
   escogerPregunta(n);
 }
+
+function juegoterminado(){
+
+  if (mostrar_pantalla_juego_términado) {
+    swal
+      .fire({
+        title: "Examen Terminado",
+        text: "Puntuacion:" + preguntas_correctas + "/" + preguntas_hechas,
+        icon: "success",
+        showCancelButton: true,
+        cancelButtonText: "Salir",
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonText: "Intentar de nuevo!",
+      })
+      .then((result) => {
+        if (result.isConfirmed) {
+          Swal.fire("Reiniciando!", "Selecciona una categoria", "success");
+        }
+       hideQuizPanel()
+      });
+  }
+
+}
+
+
 
 function escogerPregunta(n) {
   pregunta = interprete_bp[n];
@@ -601,4 +619,100 @@ function hideQuizPanel(){
 
 function showQuizPanel(){
   document.getElementById("quizPanel").style.visibility = "visible"; // muestra
+}
+
+function obtenerTiempo(totalpreguntas){
+
+  let tiempo= totalpreguntas * 2
+  
+  while(tiempo>60){
+    console.log("hora")
+      tiempo = tiempo - 60
+  
+      horas++
+      console.log("hora")
+  }
+  
+  minutos= tiempo
+  
+  cargarSegundo();
+  
+  }
+  
+  
+  //Definimos y ejecutamos los segundos
+  function cargarSegundo(){
+      let txtSegundos;
+  
+      if(segundos < 0){
+          segundos = 59; 
+      }
+  
+      //Mostrar Segundos en pantalla
+      if(segundos < 10){
+          txtSegundos = `0${segundos}`;
+      }else{
+          txtSegundos = segundos;
+      }
+      document.getElementById('Segundos').innerHTML = txtSegundos;
+      segundos--;
+  
+      cargarMinutos(segundos);
+  }
+  
+  //Definimos y ejecutamos los minutos
+  function cargarMinutos(segundos){
+      let txtMinutos;
+  
+      if(segundos == -1 && minutos !== 0){
+          setTimeout(() =>{
+              minutos--;
+          },500)
+      }else if(segundos == -1 && minutos == 0){
+          setTimeout(() =>{
+              minutos = 59;
+          },500)
+      }
+  
+      //Mostrar Minutos en pantalla
+      if(minutos < 10){
+          txtMinutos = `0${minutos}`;
+      }else{
+          txtMinutos = minutos;
+      }
+      document.getElementById('Minutos').innerHTML = txtMinutos;
+      cargarHoras(segundos,minutos);
+  }
+  
+  //Definimos y ejecutamos las horas
+  function cargarHoras(segundos,minutos){
+      let txtHoras;
+  
+      if(segundos == -1 && minutos == 0 && horas !== 0){
+          setTimeout(() =>{
+              horas--;
+          },500)
+      }else if(segundos == -1 && minutos == 0 && horas == 0){
+          setTimeout(() =>{
+              juegoterminado();
+          },500)
+      }
+  
+      //Mostrar Horas en pantalla
+      if(horas < 10){
+          txtHoras = `0${horas}`;
+      }else{
+          txtHoras = horas;
+      }
+      document.getElementById('Horas').innerHTML = txtHoras;
+
+    
+  }
+  
+  
+  //Ejecutamos cada segundo
+setInterval(cargarSegundo,1000); 
+
+function showTimerQuiz(){
+  document.getElementById("timerQuiz").style.visibility = "visible"; // muestra
 }

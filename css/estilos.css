@@ -85,8 +85,8 @@ p {
 /* ESTILOS PARA EXAMEN */
 .contenedor {
 /*   background-color: #e30032; */
-  width: 100%;
-  height: auto;
+  width: 60vw;
+  height: 57vh;
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
@@ -99,7 +99,7 @@ p {
   background: white;
   min-width: 300px;
   width: center;
-  /* max-width: 600px; */
+  max-width: 600px;
   
   padding: 10px;
   transition: all 0.3s;
@@ -187,18 +187,19 @@ p {
 #img {
   margin-left: 1rem;
 }
-/* OVERLAY */
-/* #overlay {
-  position: fixed;
-  display: none;
-  width: 100%;
-  height: 100%;
-  top: 9rem;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0,0,0,0.85);
-  z-index: 2;
-  cursor: pointer;
-} */
 
+.timer-container{
+  
+ /*  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(1rem, 1fr)); 
+  gap: 0.3rem;
+   */
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: px;
+  justify-content: right;
+  margin-right: 5%;
+  gap: 5px;
+  color: black;
+}
