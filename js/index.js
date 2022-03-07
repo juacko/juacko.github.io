@@ -59,7 +59,7 @@ let preguntas_hechas = 0;
 let preguntas_correctas = 0;
 
 function iniciarExamen() {
-
+  validarfor()
   horas = 0
   minutos = 0
   segundos = 0
@@ -67,7 +67,7 @@ function iniciarExamen() {
   showQuizPanel()
   obtenerdatos();
   showTimerQuiz();
-  entrada1 = document.getElementById("entrada1").value;
+  /* entrada1 = document.getElementById("entrada1").value; */
 }
 
 function obtenerdatos(){
@@ -212,7 +212,6 @@ function obtenerdatos(){
       default:
         return
     }
-    console.log(valor8)
     obtenerTiempo(valor8)
     escogerPreguntaAleatoria()
 
@@ -607,13 +606,13 @@ function materias(m) {
   }
 }
 
-function on() {
+/* function on() {
   document.getElementById("overlay").style.display = "block";
 }
 
 function off() {
   document.getElementById("overlay").style.display = "none";
-}
+} */
 /* OCULTAR / MOSTRAR PANEL DE PREGUNTAS */
 function hideQuizPanel(){
   document.getElementById("quizPanel").style.visibility = "hidden"; // oculta
@@ -722,3 +721,47 @@ function showTimerQuiz(){
 function hideTimerQuiz(){
   document.getElementById("timerQuiz").style.visibility = "hidden"; // muestra
 }
+
+/* VALIDAD FORMULARIO EXAMEN */
+function validarfor(){
+ 
+  var vEntrada1 = document.getElementById("entrada1").value; 
+  var vEntrada2 = document.getElementById("entrada2").value;
+  var vEntrada3 = document.getElementById("entrada3").value;
+  var vEntrada4 = document.getElementById("entrada4").value;
+  var vEntrada5 = document.getElementById("entrada5").value;
+  var vEntrada6 = document.getElementById("entrada6").value;
+  var vEntrada7 = document.getElementById("entrada7").value;
+  var vEntrada8 = document.getElementById("entrada8").value;
+
+ /*  if ((vEntrada1== "") || (vEntrada2 == "") || (vEntrada3 == "") || (vEntrada4 == "") || (vEntrada5 == "") || (vEntrada6 == "") || (vEntrada7 == "") || (vEntrada8 == "")) {  //COMPRUEBA CAMPOS VACIOS
+    
+      alert("Los campos no pueden quedar vacios");
+      return true;  
+      
+  } */
+  if (vEntrada1 == ""){
+    document.getElementById("entrada1").value = 0
+  }
+  if (vEntrada2 == ""){
+    document.getElementById("entrada2").value = 0
+  }
+  if (vEntrada3 == ""){
+    document.getElementById("entrada3").value = 0
+  }
+  if (vEntrada4 == ""){
+    document.getElementById("entrada4").value = 0
+  }
+  if (vEntrada5== ""){
+    document.getElementById("entrada5").value = 0
+  }
+  if (vEntrada6 == ""){
+    document.getElementById("entrada6").value = 0
+  }
+  if (vEntrada7 == ""){
+    document.getElementById("entrada7").value = 0
+  }
+  if (vEntrada8 == ""){
+    document.getElementById("entrada8").value = 0
+  }
+  }
