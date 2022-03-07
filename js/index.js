@@ -383,13 +383,14 @@ function juegoterminado(){
     swal
       .fire({
         title: "Examen Terminado",
-        text: "Puntuacion:" + preguntas_correctas + "/" + preguntas_hechas,
+        text: "Puntuacion: " + preguntas_correctas + "/" + preguntas_hechas,
         icon: "success",
         showCancelButton: false,
         cancelButtonText: "Salir",
         confirmButtonColor: "#3085d6",
         cancelButtonColor: "#d33",
         confirmButtonText: "Volver al inicio",
+        footer: "Nota Equivalente: " + preguntas_correctas*10 ,
       })
       .then((result) => {
         if (result.isConfirmed) {
