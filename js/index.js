@@ -397,6 +397,7 @@ function juegoterminado(){
           Swal.fire("Reiniciando!", "Selecciona una categoria", "success");
         }
        hideQuizPanel()
+       hideTimerQuiz()
       });
   }
 
@@ -716,4 +717,8 @@ setInterval(cargarSegundo,1000);
 
 function showTimerQuiz(){
   document.getElementById("timerQuiz").style.visibility = "visible"; // muestra
+}
+
+function hideTimerQuiz(){
+  document.getElementById("timerQuiz").style.visibility = "hidden"; // muestra
 }
