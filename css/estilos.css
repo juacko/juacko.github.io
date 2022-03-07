@@ -192,7 +192,7 @@ p {
   margin-right: 5%;
   gap: 5px;
   color: white;
-  font-size: 18px;
+  font-size: 15px;
   background-color: #4585e8;
   border-radius: 10px;
 }
@@ -211,7 +211,7 @@ p {
   justify-content: center;
   gap: 5px;
   color: white;
-  font-size: 18px;
+  font-size: 15px;
   background-color: #d85251;
   border-radius: 10px;
 }

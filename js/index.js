@@ -412,9 +412,9 @@ function escogerPregunta(n) {
   let pc = preguntas_correctas;
   if (preguntas_hechas > 1) {
   /*   select_id("puntaje").innerHTML = pc + "/" + preguntas_hechas; */
-    select_id("puntaje").innerHTML = preguntas_hechas + "/" + valor8;
+    select_id("puntaje").innerHTML ="Pregunta " + preguntas_hechas + "/" + valor8;
   } else {
-    select_id("puntaje").innerHTML = preguntas_hechas + "/" + valor8;
+    select_id("puntaje").innerHTML ="Pregunta " +  preguntas_hechas + "/" + valor8;
   }
 
  /*  style("imagen").objectFit = pregunta.objectFit; */
@@ -740,6 +740,7 @@ function validarfor(){
       return true;  
       
   } */
+  /* COMPRUEBA CAMPOS VACIOS Y LOS REEMPLZA POR = 0 */
   if (vEntrada1 == ""){
     document.getElementById("entrada1").value = 0
   }
