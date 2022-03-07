@@ -386,11 +386,11 @@ function juegoterminado(){
         title: "Examen Terminado",
         text: "Puntuacion:" + preguntas_correctas + "/" + preguntas_hechas,
         icon: "success",
-        showCancelButton: true,
+        showCancelButton: false,
         cancelButtonText: "Salir",
         confirmButtonColor: "#3085d6",
         cancelButtonColor: "#d33",
-        confirmButtonText: "Intentar de nuevo!",
+        confirmButtonText: "Volver al inicio",
       })
       .then((result) => {
         if (result.isConfirmed) {
