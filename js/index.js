@@ -411,9 +411,10 @@ function escogerPregunta(n) {
   select_id("numero").innerHTML = n + 1; //para que la pregunta comience en 1
   let pc = preguntas_correctas;
   if (preguntas_hechas > 1) {
-    select_id("puntaje").innerHTML = pc + "/" + preguntas_hechas;
+  /*   select_id("puntaje").innerHTML = pc + "/" + preguntas_hechas; */
+    select_id("puntaje").innerHTML = preguntas_hechas + "/" + valor8;
   } else {
-    select_id("puntaje").innerHTML = "";
+    select_id("puntaje").innerHTML = preguntas_hechas + "/" + valor8;
   }
 
  /*  style("imagen").objectFit = pregunta.objectFit; */
