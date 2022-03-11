@@ -12,7 +12,7 @@ body {
   display: grid;
   /* auto-fit - Llena los espacios para completar el espacio/ auto-fill deja espacios sin llenar */
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); 
-  gap: 0.3rem;
+  gap: 5px;
   grid-auto-rows: 3rem;
   transition: all 0.3s;
  }
