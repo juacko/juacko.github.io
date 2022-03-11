@@ -710,9 +710,9 @@ function validarfor() {
 }
 
 function showBtnsCanal() {
-  document.getElementById("btnsContainer").style.visibility = "visible"; // muestra
+  document.getElementById("btnsContainer").style.display = "block"; // muestra
 }
 
 function hideBtnsCanal() {
-  document.getElementById("btnsContainer").style.visibility = "hidden"; // oculta
+  document.getElementById("btnsContainer").style.display = "none"; // oculta
 }
