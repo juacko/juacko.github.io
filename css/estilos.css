@@ -86,12 +86,10 @@ p {
 
 /* ESTILOS PARA EXAMEN */
 .contenedor {
-/*   background-color: #e30032; */
-/*   display: inline-flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  transition: all 0.3s; */
+position: fixed;
+top: 70px;
+left: 0;
+right: 0;
 }
 
 .encabezado {
@@ -102,7 +100,8 @@ p {
   width: 100%;
   max-width: 600px; */
   
-  padding: 10px;
+  padding: 15px;
+  margin: 15px;
   transition: all 0.3s;
 }
 
@@ -129,7 +128,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 10  px;
+  margin: 5px;
   cursor: pointer;
 }
 
@@ -138,7 +137,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 10px;
+  margin: 5px;
   cursor: pointer;
 }
 
@@ -147,7 +146,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 10px;
+  margin: 5px;
   cursor: pointer;
 }
 
@@ -156,7 +155,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 10px;
+  margin: 5px;
   cursor: pointer;
 }
 
@@ -165,7 +164,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 10px;
+  margin: 5px;
   cursor: pointer;
 }
 
