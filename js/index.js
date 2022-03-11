@@ -49,6 +49,7 @@ btn_correspondiente = [
   select_id("btn2"),
   select_id("btn3"),
   select_id("btn4"),
+  select_id("btn5"),
 ];
 let npreguntas = [];
 
@@ -61,6 +62,7 @@ function iniciarExamen() {
   minutos = 0;
   segundos = 0;
   closeModal();
+  hideBtnsCanal();
   showQuizPanel();
   obtenerdatos();
   showTimerQuiz();
@@ -355,6 +357,7 @@ function juegoterminado() {
         }
         hideQuizPanel();
         hideTimerQuiz();
+        showBtnsCanal();
       });
   }
 }
@@ -397,6 +400,7 @@ function desordenarRespuestas(pregunta) {
     pregunta.incorrecta1,
     pregunta.incorrecta2,
     pregunta.incorrecta3,
+    pregunta.incorrecta4,
   ];
   posibles_respuestas.sort(() => Math.random() - 0.5);
 
@@ -404,6 +408,7 @@ function desordenarRespuestas(pregunta) {
   select_id("btn2").innerHTML = posibles_respuestas[1];
   select_id("btn3").innerHTML = posibles_respuestas[2];
   select_id("btn4").innerHTML = posibles_respuestas[3];
+  select_id("btn5").innerHTML = posibles_respuestas[4];
 }
 
 let suspender_botones = false;
@@ -420,7 +425,7 @@ function oprimir_btn(i) {
   } else {
     btn_correspondiente[i].style.background = "pink";
   }
-  for (let j = 0; j < 4; j++) {
+  for (let j = 0; j < 5; j++) {
     if (posibles_respuestas[j] == pregunta.respuesta) {
       btn_correspondiente[j].style.background = "lightgreen";
       break;
@@ -563,13 +568,6 @@ function materias(m) {
   }
 }
 
-/* function on() {
-  document.getElementById("overlay").style.display = "block";
-}
-
-function off() {
-  document.getElementById("overlay").style.display = "none";
-} */
 /* OCULTAR / MOSTRAR PANEL DE PREGUNTAS */
 function hideQuizPanel() {
   document.getElementById("quizPanel").style.visibility = "hidden"; // oculta
@@ -684,12 +682,6 @@ function validarfor() {
   var vEntrada7 = document.getElementById("entrada7").value;
   var vEntrada8 = document.getElementById("entrada8").value;
 
-  /*  if ((vEntrada1== "") || (vEntrada2 == "") || (vEntrada3 == "") || (vEntrada4 == "") || (vEntrada5 == "") || (vEntrada6 == "") || (vEntrada7 == "") || (vEntrada8 == "")) {  //COMPRUEBA CAMPOS VACIOS
-    
-      alert("Los campos no pueden quedar vacios");
-      return true;  
-      
-  } */
   /* COMPRUEBA CAMPOS VACIOS Y LOS REEMPLZA POR = 0 */
   if (vEntrada1 == "") {
     document.getElementById("entrada1").value = 0;
@@ -715,4 +707,12 @@ function validarfor() {
   if (vEntrada8 == "") {
     document.getElementById("entrada8").value = 0;
   }
+}
+
+function showBtnsCanal() {
+  document.getElementById("btnsContainer").style.visibility = "visible"; // muestra
+}
+
+function hideBtnsCanal() {
+  document.getElementById("btnsContainer").style.visibility = "hidden"; // oculta
 }

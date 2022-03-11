@@ -7,7 +7,7 @@ body {
   padding: 5px;
   margin: 5px;
   text-align: center;
-  background-image: url("/img/wallpaper.jpg") ;
+  background-image: linear-gradient(90deg, #2CD8D5, #6B8DD6, #8E37D7);
   font-family: 'Lato', sans-serif;
   /* font-family: calibri; */
 }
@@ -129,7 +129,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 5px;
+  margin: 10  px;
   cursor: pointer;
 }
 
@@ -138,7 +138,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   cursor: pointer;
 }
 
@@ -147,7 +147,7 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   cursor: pointer;
 }
 
@@ -156,7 +156,16 @@ p {
   width: 60%;
   max-width: 550px;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#btn5 {
+  background: white;
+  width: 60%;
+  max-width: 550px;
+  padding: 10px;
+  margin: 10px;
   cursor: pointer;
 }
 
@@ -170,6 +179,9 @@ p {
   transform: scale(1.05);
 }
 #btn4:hover {
+  transform: scale(1.05);
+}
+#btn5:hover {
   transform: scale(1.05);
 }
 
