@@ -723,9 +723,9 @@ function salirExamen(){
       .fire({
         title: "¿Está seguro de Terminar el Examen?",
         text: "Puntuacion: " + preguntas_correctas + "/" + preguntas_hechas,
-        icon: "success",
+        icon: "warning",
         showCancelButton: true,
-        cancelButtonText: "Salir",
+        cancelButtonText: "Cancelar",
         confirmButtonColor: "#3085d6",
         cancelButtonColor: "#d33",
         confirmButtonText: "Si, Volver al inicio",
