@@ -716,3 +716,29 @@ function showBtnsCanal() {
 function hideBtnsCanal() {
   document.getElementById("btnsContainer").style.display = "none"; // oculta
 }
+
+function salirExamen(){
+  if (mostrar_pantalla_juego_términado) {
+    swal
+      .fire({
+        title: "¿Está seguro de Terminar el Examen?",
+        text: "Puntuacion: " + preguntas_correctas + "/" + preguntas_hechas,
+        icon: "success",
+        showCancelButton: true,
+        cancelButtonText: "Salir",
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonText: "Si, Volver al inicio",
+        footer: "Nota Equivalente: " + preguntas_correctas * 10,
+      })
+      .then((result) => {
+        if (result.isConfirmed) {
+          Swal.fire("Reiniciando!", "Selecciona una categoria", "success");
+          hideQuizPanel();
+          hideTimerQuiz();
+          showBtnsCanal();
+        }
+        
+      });
+  }
+}
