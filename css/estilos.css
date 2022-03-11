@@ -1,15 +1,10 @@
-/* 
-* {
-  transition: all 0.3s;
-}
- */
+
 body {
   padding: 5px;
   margin: 5px;
   text-align: center;
   background-image: linear-gradient(90deg, #2CD8D5, #6B8DD6, #8E37D7);
   font-family: 'Lato', sans-serif;
-  /* font-family: calibri; */
 }
 
 .btnContainer {
