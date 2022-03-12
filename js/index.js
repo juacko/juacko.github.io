@@ -62,11 +62,7 @@ function iniciarExamen() {
   minutos = 0;
   segundos = 0;
   closeModal();
-
-  setTimeout(function(){
-    hideBtnsCanal();
-  },50);
-
+  hideBtnsCanal();
   showQuizPanel();
   obtenerdatos();
   showTimerQuiz();
@@ -84,50 +80,13 @@ function obtenerdatos() {
   var entrada8 = document.getElementById("entrada8").value;
 
   valor1 = parseInt(entrada1);
-
-  valor2 = parseInt(entrada1) + parseInt(entrada2);
-
-  valor3 = parseInt(entrada1) + parseInt(entrada2) + parseInt(entrada3);
-
-  valor4 =
-    parseInt(entrada1) +
-    parseInt(entrada2) +
-    parseInt(entrada3) +
-    parseInt(entrada4);
-
-  valor5 =
-    parseInt(entrada1) +
-    parseInt(entrada2) +
-    parseInt(entrada3) +
-    parseInt(entrada4) +
-    parseInt(entrada5);
-
-  valor6 =
-    parseInt(entrada1) +
-    parseInt(entrada2) +
-    parseInt(entrada3) +
-    parseInt(entrada4) +
-    parseInt(entrada5) +
-    parseInt(entrada6);
-
-  valor7 =
-    parseInt(entrada1) +
-    parseInt(entrada2) +
-    parseInt(entrada3) +
-    parseInt(entrada4) +
-    parseInt(entrada5) +
-    parseInt(entrada6) +
-    parseInt(entrada7);
-
-  valor8 =
-    parseInt(entrada1) +
-    parseInt(entrada2) +
-    parseInt(entrada3) +
-    parseInt(entrada4) +
-    parseInt(entrada5) +
-    parseInt(entrada6) +
-    parseInt(entrada7) +
-    parseInt(entrada8);
+  valor2 = parseInt(entrada2) + valor1;
+  valor3 = parseInt(entrada3) + valor2;
+  valor4 = parseInt(entrada4) + valor3;
+  valor5 = parseInt(entrada5) + valor4;
+  valor6 = parseInt(entrada6) + valor5;
+  valor7 = parseInt(entrada7) + valor6;
+  valor8 = parseInt(entrada8) + valor7;
 
   switch (canal) {
     case 1:
@@ -223,8 +182,6 @@ function escogerPreguntaAleatoria() {
     } else {
       n = 0;
     }
-
-    console.log("paso1");
   }
 
   if (npreguntas.length + 1 > valor1) {
@@ -234,8 +191,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso2");
     }
   }
 
@@ -246,8 +201,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso3");
     }
   }
 
@@ -258,8 +211,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso4");
     }
   }
 
@@ -270,8 +221,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso5");
     }
   }
 
@@ -282,8 +231,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso6");
     }
   }
 
@@ -294,8 +241,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso7");
     }
   }
 
@@ -306,8 +251,6 @@ function escogerPreguntaAleatoria() {
       } else {
         n = 0;
       }
-
-      console.log("paso8");
     }
   }
 
@@ -317,8 +260,6 @@ function escogerPreguntaAleatoria() {
       n = 0;
     }
   }
-
-  console.log(npreguntas.length);
 
   if (npreguntas.length == valor8) {
     //reemplazar interprete_bp por la numero de preguntas(por crear)
@@ -363,7 +304,6 @@ function juegoterminado() {
         hideTimerQuiz();
         /* refrescasPagina(1000); */
         showBtnsCanal();
-          
       });
   }
 }
@@ -482,10 +422,10 @@ function lanzarPregunta(m) {
   preguntas_hechas = 0;
   npreguntas = [];
   materias(m);
-  document.getElementById("modalPregunta").style.display = "block";
+  document.getElementById("modalPregunta").style.display = "block"; //muestra
 }
 function closeModal() {
-  document.getElementById("modalPregunta").style.display = "none";
+  document.getElementById("modalPregunta").style.display = "none"; //oculta
 }
 
 function materias(m) {
@@ -580,18 +520,15 @@ function hideQuizPanel() {
 }
 
 function showQuizPanel() {
-  document.getElementById("quizPanel").style.display= ""; // muestra
+  document.getElementById("quizPanel").style.display = ""; // muestra
 }
 
 function obtenerTiempo(totalpreguntas) {
   let tiempo = totalpreguntas * 2;
 
   while (tiempo > 60) {
-    console.log("hora");
     tiempo = tiempo - 60;
-
     horas++;
-    console.log("hora");
   }
 
   minutos = tiempo;
@@ -670,11 +607,11 @@ function cargarHoras(segundos, minutos) {
 setInterval(cargarSegundo, 1000);
 
 function showTimerQuiz() {
-  document.getElementById("timerQuiz").style.visibility = "visible"; // muestra
+  document.getElementById("timerQuiz").style.display = ""; // muestra
 }
 
 function hideTimerQuiz() {
-  document.getElementById("timerQuiz").style.visibility = "hidden"; // muestra
+  document.getElementById("timerQuiz").style.display = "none"; // muestra
 }
 
 /* VALIDAD FORMULARIO EXAMEN */
@@ -717,14 +654,13 @@ function validarfor() {
 
 function showBtnsCanal() {
   document.getElementById("btnsContainer").style.display = ""; // muestra
-  
 }
 
 function hideBtnsCanal() {
   document.getElementById("btnsContainer").style.display = "none"; // oculta
 }
 
-function salirExamen(){
+function salirExamen() {
   if (mostrar_pantalla_juego_términado) {
     swal
       .fire({
@@ -745,7 +681,6 @@ function salirExamen(){
           hideTimerQuiz();
           showBtnsCanal();
         }
-        
       });
   }
 }
