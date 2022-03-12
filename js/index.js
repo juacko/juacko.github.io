@@ -62,7 +62,11 @@ function iniciarExamen() {
   minutos = 0;
   segundos = 0;
   closeModal();
-  hideBtnsCanal();
+
+  setTimeout(function(){
+    hideBtnsCanal();
+  },50);
+
   showQuizPanel();
   obtenerdatos();
   showTimerQuiz();
@@ -359,6 +363,7 @@ function juegoterminado() {
         hideTimerQuiz();
         /* refrescasPagina(1000); */
         showBtnsCanal();
+          
       });
   }
 }
@@ -571,11 +576,11 @@ function materias(m) {
 
 /* OCULTAR / MOSTRAR PANEL DE PREGUNTAS */
 function hideQuizPanel() {
-  document.getElementById("quizPanel").style.visibility = "hidden"; // oculta
+  document.getElementById("quizPanel").style.display = "none"; // oculta
 }
 
 function showQuizPanel() {
-  document.getElementById("quizPanel").style.visibility = "visible"; // muestra
+  document.getElementById("quizPanel").style.display= ""; // muestra
 }
 
 function obtenerTiempo(totalpreguntas) {
@@ -711,7 +716,8 @@ function validarfor() {
 }
 
 function showBtnsCanal() {
-  document.getElementById("btnsContainer").style.display = "block"; // muestra
+  document.getElementById("btnsContainer").style.display = ""; // muestra
+  
 }
 
 function hideBtnsCanal() {
