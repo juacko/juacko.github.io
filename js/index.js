@@ -357,7 +357,8 @@ function juegoterminado() {
         }
         hideQuizPanel();
         hideTimerQuiz();
-        refrescasPagina(1000);
+        /* refrescasPagina(1000); */
+        showBtnsCanal();
       });
   }
 }
@@ -736,7 +737,7 @@ function salirExamen(){
           Swal.fire("Reiniciando!", "Selecciona una categoria", "success");
           hideQuizPanel();
           hideTimerQuiz();
-          refrescasPagina(2000);
+          showBtnsCanal();
         }
         
       });
