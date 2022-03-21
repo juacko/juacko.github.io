@@ -74,6 +74,7 @@ right: 0;
   margin-left: 15px;
   transition: all 0.3s;
   border-radius: 6px;
+  margin-bottom: 5px;
 }
 
 .categoria {
@@ -96,7 +97,7 @@ right: 0;
 
 #btn1 {
   background: white;
-  width: 60%;
+  width: 80%;
   max-width: 550px;
   padding: 10px;
   margin: 5px;
@@ -105,7 +106,7 @@ right: 0;
 
 #btn2 {
   background: white;
-  width: 60%;
+  width: 80%;
   max-width: 550px;
   padding: 10px;
   margin: 5px;
@@ -114,7 +115,7 @@ right: 0;
 
 #btn3 {
   background: white;
-  width: 60%;
+  width: 80%;
   max-width: 550px;
   padding: 10px;
   margin: 5px;
@@ -123,7 +124,7 @@ right: 0;
 
 #btn4 {
   background: white;
-  width: 60%;
+  width: 80%;
   max-width: 550px;
   padding: 10px;
   margin: 5px;
@@ -132,40 +133,40 @@ right: 0;
 
 #btn5 {
   background: white;
-  width: 60%;
+  width: 80%;
   max-width: 550px;
   padding: 10px;
   margin: 5px;
   cursor: pointer;
-  margin-bottom: 60px;
+  bottom: 0;
 }
 
 #btnSalirExamen{
-  background: #de3f43;
+  background: #d75153;
   color: white;
   padding: 10px;
-  margin: 5px;
+  margin-right: 15px;
   min-width: 100px;
   cursor: pointer;
-  position: fixed;
+  position: absolute;
   bottom: 0;
   right: 0; 
 }
 
 #btn1:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 #btn2:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 #btn3:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 #btn4:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 #btn5:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 
 .numero {
@@ -220,4 +221,8 @@ right: 0;
 
 .navbar {
   border-radius: 6px;
+}
+
+section{
+  margin-top: 80px;
 }
