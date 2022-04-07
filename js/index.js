@@ -166,6 +166,15 @@ function obtenerdatos() {
       fin7 = 1433;
       fin8 = 949;
       break;
+
+    case 5:
+        inicio1 = 104;
+        inicio2 = 0;
+
+        fin1 = 376;
+        fin2 = 103;
+
+        break;
     default:
       return;
   }
@@ -422,10 +431,17 @@ function lanzarPregunta(m) {
   preguntas_hechas = 0;
   npreguntas = [];
   materias(m);
-  document.getElementById("modalPregunta").style.display = "block"; //muestra
+  console.log(m);
+  if (m==5){
+    document.getElementById("modalPreguntaExtraordinario").style.display = "block"; //muestra
+
+  }else {
+    document.getElementById("modalPregunta").style.display = "block"; //muestra
+  }
 }
 function closeModal() {
   document.getElementById("modalPregunta").style.display = "none"; //oculta
+  document.getElementById("modalPreguntaExtraordinario").style.display = "none"; //oculta
 }
 
 function materias(m) {
@@ -509,6 +525,15 @@ function materias(m) {
       document.getElementById("entrada8").value = 7;
       canal = 4;
       break;
+    case 5:
+        document.getElementById("materiaRV").innerHTML = "Razonamiento verbal";
+        document.getElementById("materiaRM").innerHTML = "Razonamiento matemático";
+     
+        document.getElementById("entradaRV").value = 20;
+        document.getElementById("entradaRM").value = 20;
+
+        canal = 5;
+        break;
     default:
       document.getElementById("materia1").innerHTML = "Celda 8";
   }

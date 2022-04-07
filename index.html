@@ -48,6 +48,9 @@
       <button id="btnCanal4" class="btn btn-info" onclick="lanzarPregunta(4)">
         <h4>Canal 4</h4>
       </button>
+      <button id="btnCanal5" class="btn btn-info" onclick="lanzarPregunta(5)">
+        <h4>Extraordinario</h4>
+      </button>
     </div>
 
     <!-- modal de canales por curso -->
@@ -169,6 +172,71 @@
                       min="0"
                       max="20"
                       id="entrada8"
+                    />
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          <div class="modal-footer">
+            <nav>
+              <!-- <a href="./exam.html"> -->
+                <button class="btn btn-primary" id="btnIniciarExamen" onclick="iniciarExamen()">
+                  INICIAR EXAMEN
+                </button></a
+              >
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- modal extraordinario -->
+    <div class="modal" tabindex="-1" role="dialog" id="modalPreguntaExtraordinario">
+      <div class="modal-dialog" role="document" id="modalTitulo">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Personaliza tu Examen</h5>
+            <button
+              type="button"
+              class="close btn btn-danger"
+              data-dismiss="modal"
+              aria-label="Close"
+              id="btnCloseMotal"
+              onclick="closeModal()"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+            <table class="table" id="tabla">
+              <thead class="thead">
+                <tr>
+                  <th scope="col">ÁREA / ASIGNATURA</th>
+                  <th scope="col">N° PREGUNTAS</th>
+                </tr>
+                
+              </thead>
+              <tbody class="tbody">
+                <tr>
+                  <th scope="row"><p  id="materiaRV"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entradaRV"
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><p id="materiaRM"></p></th>
+                  <td>
+                    <input
+                      type="number"
+                      class="form-control"
+                      min="0"
+                      max="20"
+                      id="entradaRM"
                     />
                   </td>
                 </tr>
